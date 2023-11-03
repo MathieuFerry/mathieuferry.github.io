@@ -1,6 +1,6 @@
 project:
   title: "Mathieu Ferry"
-  output-dir: ./docs/en
+  output-dir: ./docs
 
 website:
   navbar:
@@ -18,7 +18,7 @@ website:
     right:
       - href: ../fr
         text: Français
-      - href: ../en
+      - href: ../
         text: English
 
 lang: en
