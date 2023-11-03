@@ -6,7 +6,7 @@ page-layout: full
 ::: {.content-visible when-profile="english"}
 # Teaching {{< iconify mdi teacher >}}
 
-In context of teaching quantitative methods for the social sciences, I've started to compile some course materials here.
+In the course of teaching quantitative methods for the social sciences, I've started to compile some course materials here.
 
 ## Data Analysis
 
