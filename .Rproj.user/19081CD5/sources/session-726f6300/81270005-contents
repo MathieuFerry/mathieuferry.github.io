@@ -1,0 +1,10 @@
+project:
+  type: website
+
+profile:
+  default: english
+  group: [english, french]
+
+website: 
+  favicon: image/icon.png
+  site-path: "/en/"

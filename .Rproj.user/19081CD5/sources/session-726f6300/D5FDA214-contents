@@ -1,0 +1,34 @@
+project:
+  title: "Mathieu Ferry"
+  output-dir: ./docs/en
+
+website:
+  navbar:
+    background: "#A3133D"
+    left:
+      - href: index.qmd
+        text: About me
+      - icon: book
+        href: publications/index.qmd
+        text: Publications
+      - href: cv/index.qmd        
+        text: CV
+      - href: teaching/index.qmd
+        text: Teaching
+    right:
+      - href: ../fr
+        text: Français
+      - href: ../en
+        text: English
+
+lang: en
+
+format:
+  html:
+    theme: united
+    mainfont: arial
+    fontsize: 1.5rem
+    linkcolor: "#A3133D"
+    css: styles.css
+    toc: true
+

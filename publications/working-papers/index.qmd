@@ -1,0 +1,18 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.content-visible when-profile="english"}
+**Ferry, M.** (2019). Caste links. Quantifying social identities using open-ended questions. *Sciences Po OSC Papers,* 1.
+
+[{{< iconify icons8 pdf >}} PDF](https://www.sciencespo.fr/osc/sites/sciencespo.fr.osc/files/OP_2019-1-EN-def.pdf) [{{< iconify gg website >}} Website](https://www.sciencespo.fr/osc/fr/node/2089.html)
+:::
+
+::: {.content-visible when-profile="french"}
+**Ferry, M.** (2019). Les liens de la caste : Quantifier des identités sociales à l'aide de questions ouvertes. *Sciences Po OSC Papers,* 1.
+
+[{{< iconify icons8 pdf >}} PDF](https://www.sciencespo.fr/osc/sites/sciencespo.fr.osc/files/OP_2019-1_FR_def.pdf) [{{< iconify gg website >}} Site web](https://www.sciencespo.fr/osc/fr/node/2089.html)
+:::
+
+------------------------------------------------------------------------

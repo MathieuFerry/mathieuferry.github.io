@@ -1,0 +1,42 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.content-visible when-profile="english"}
+Al Dahdah, M., **Ferry, M.**, Guérin, I., & Venkatasubramanian, G. (2020). The Covid-19 Crisis in India. *Books & ideas*.
+
+[{{< iconify gg website >}} Website](https://booksandideas.net/The-Covid-19-Crisis-in-India.html)
+
+*Note: this article was also published in a shortened version in* [Public Books](https://www.publicbooks.org/india-in-covid-19-a-tragedy-foretold/).
+
+------------------------------------------------------------------------
+
+**Ferry M.** (2019). En Inde, des attaques contre les minorités au nom de la vache sacrée. *Bulletin de l'Observatoire international du religieux*, 31.
+
+[{{< iconify gg website >}} Website](https://obsreligion.cnrs.fr/bulletin/en-inde-des-attaques-contre-les-minorites-au-nom-de-la-vache-sacree/)
+
+------------------------------------------------------------------------
+
+**Ferry, M.** (2018). Cow Terrorism. *Books & ideas*.
+
+[{{< iconify gg website >}} Website](http://www.booksandideas.net/Cow-Terrorism.html)
+:::
+
+::: {.content-visible when-profile="french"}
+Al Dahdah, M., **Ferry, M.**, Guérin, I., & Venkatasubramanian, G. (2020). L'Inde face à la crise du Covid-19. *La Vie des idées*.
+
+[{{< iconify gg website >}} Site web](https://laviedesidees.fr/L-Inde-face-a-la-crise-du-Covid-19.html)
+
+------------------------------------------------------------------------
+
+**Ferry M.** (2019). En Inde, des attaques contre les minorités au nom de la vache sacrée. *Bulletin de l'Observatoire international du religieux*, 31.
+
+[{{< iconify gg website >}} Site web](https://obsreligion.cnrs.fr/bulletin/en-inde-des-attaques-contre-les-minorites-au-nom-de-la-vache-sacree/)
+
+------------------------------------------------------------------------
+
+**Ferry, M.** (2017). Le terrorisme de la vache. *La Vie des idées*.
+
+[{{< iconify](http://www.laviedesidees.fr/Le-terrorisme-de-la-vache.html)gg website >}} [Site web](http://www.laviedesidees.fr/Le-terrorisme-de-la-vache.html)
+:::

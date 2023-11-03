@@ -1,0 +1,41 @@
+{
+  "index.qmd": {
+    "index.html": "b39f9ffe"
+  },
+  "about.qmd": {
+    "about.html": "edb3e414"
+  },
+  "publications.qmd": {
+    "publications.html": "fe1b03ba"
+  },
+  "publications/publications.qmd": {
+    "publications.html": "d5d63d7d"
+  },
+  "publications/index.qmd": {
+    "index.html": "984e0993"
+  },
+  "publications/articles/ferry-2022/index.qmd": {
+    "index.html": "3078ac9f"
+  },
+  "publications/articles/index.qmd": {
+    "index.html": "5cf2182b"
+  },
+  "publications/chapters/index.qmd": {
+    "index.html": "ffb53d9f"
+  },
+  "cv/index.qmd": {
+    "index.html": "b7275968"
+  },
+  "teaching/index.qmd": {
+    "index.html": "b6548c8b"
+  },
+  "publications/nonpeerred-papers/index.qmd": {
+    "index.html": "e7a3d3e5"
+  },
+  "publications/reviews/index.qmd": {
+    "index.html": "3e80e76f"
+  },
+  "publications/working-papers/index.qmd": {
+    "index.html": "9087edf2"
+  }
+}

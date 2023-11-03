@@ -1,0 +1,36 @@
+---
+title: "CV"
+page-layout: full
+---
+
+::: {.content-visible when-profile="english"}
+## Academic positions
+
+Since September 2023 - **Assistant Professor** (Maître de conférences) at [Université Versailles Saint-Quentin](https://www.uvsq.fr/english) (UVSQ) and researcher at [Printemps](https://www.printemps.uvsq.fr/).
+
+2021-2023 - **Postdoctoral Researcher** at [Ined](https://www.ined.fr/en/) (French Institute for Demographic Studies).
+
+2020-2021 - **Teaching Fellow** at [Université Paris 8 Vincennes Saint-Denis](https://www.univ-paris8.fr/en/).
+
+## Education
+
+2021 - PhD in Sociology, Sciences Po Paris ([Observatoire Sociologique du Changement](https://www.sciencespo.fr/osc/en.html)): *What goes around meat eating, comes around: Vegetarianism as a status marker in comtemporary India.* Supervisors: Philippe Coulangeon & Christophe Jaffrelot.
+
+2015-2017 - Master's Degree from Université Paris-Saclay "Quantitative Sociology & Demography".
+:::
+
+::: {.content-visible when-profile="french"}
+## Parcours professionnel
+
+Depuis septembre 2023 - **Maître de conférences** à l'[Université Versailles Saint-Quentin](https://www.uvsq.fr) (UVSQ) et chercheur au [Printemps](https://www.printemps.uvsq.fr/).
+
+2021-2023 - **Chercheur postdoctoral** à l'[Ined](https://www.ined.fr/) (Institut national d'études démographiques).
+
+2020-2021 - **ATER** à l'[Université Paris 8 Vincennes Saint-Denis](https://www.univ-paris8.fr/).
+
+## Formation
+
+2021 - Doctorat en sociologie, Sciences Po Paris ([Observatoire Sociologique du Changement](https://www.sciencespo.fr/osc/fr.html)): *What goes around meat eating, comes around: Vegetarianism as a status marker in comtemporary India.* Directeurs de thèse : Philippe Coulangeon & Christophe Jaffrelot.
+
+2015-2017 - Master de "Sociologie Quantitative et Démographie", Université Paris-Saclay.
+:::
