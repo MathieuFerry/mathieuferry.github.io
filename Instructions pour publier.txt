@@ -9,7 +9,9 @@ https://quarto.org/docs/publishing/github-pages.html
 git add .
 git commit -m "Correction25/10/23"
 
-(git remote add origin https://github.com/MathieuFerry/PondicherryWorkshop.git)
+(
+git remote add origin https://github.com/MathieuFerry/mathieuferry.github.io
+)
 
 git branch -M main
 
