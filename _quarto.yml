@@ -7,5 +7,6 @@ profile:
 
 website: 
   favicon: image/icon.png
-  site-path: "/en"
+  site-url: "https://mathieuferry.github.io/en/"
+
   
