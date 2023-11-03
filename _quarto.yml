@@ -7,4 +7,4 @@ profile:
 
 website: 
   favicon: image/icon.png
-  site-path: "/en/"
+  site-path: "/en"
