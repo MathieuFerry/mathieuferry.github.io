@@ -8,13 +8,13 @@ website:
     left:
       - href: index.qmd
         text: About me
+      - href: cv/index.qmd        
+        text: CV
       - icon: book
         href: publications/index.qmd
         text: Publications
-      - href: cv/index.qmd        
-        text: CV
       - href: teaching/index.qmd
-        text: Teaching
+        text: "{{< iconify mdi teacher >}} Teaching"
     right:
       - href: ../fr
         text: Français

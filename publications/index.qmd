@@ -5,7 +5,7 @@ toc-location: right
 ---
 
 ::: {.content-visible when-profile="english"}
-# Publications
+# Publications {{< iconify bi book>}}
 
 All publications should be accessible either as open access manuscripts or pre-prints. Please get in touch if this does not work.
 
@@ -31,7 +31,7 @@ All publications should be accessible either as open access manuscripts or pre-p
 :::
 
 ::: {.content-visible when-profile="french"}
-# Publications
+# Publications {{< iconify bi book>}}
 
 Toutes les publications sont disponibles en "open access" ou sous la forme de prépublication. Si toutefois l'une des références manquait, ne pas hésiter à me contacter.
 

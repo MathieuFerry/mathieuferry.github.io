@@ -38,5 +38,5 @@ Al Dahdah, M., **Ferry, M.**, Guérin, I., & Venkatasubramanian, G. (2020). L'In
 
 **Ferry, M.** (2017). Le terrorisme de la vache. *La Vie des idées*.
 
-[{{< iconify](http://www.laviedesidees.fr/Le-terrorisme-de-la-vache.html)gg website >}} [Site web](http://www.laviedesidees.fr/Le-terrorisme-de-la-vache.html)
+[{{< iconify gg website >}} Site web](http://www.laviedesidees.fr/Le-terrorisme-de-la-vache.html)
 :::

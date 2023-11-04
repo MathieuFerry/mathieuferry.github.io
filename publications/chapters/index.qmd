@@ -6,11 +6,11 @@ page-layout: full
 **Ferry, M.** (2023). Social Honour. In S. S. Jodhka & B. Rehbein (Eds.), *Global Handbook of Inequality*. Cham: Springer International Publishing (living reference work entry).
 
 ::: {.content-visible when-profile="english"}
-[{{< iconify icons8 pdf >}} Pre-print](ferry-2023/Preprint-ferry-2023.pdf) [{{< iconify ph book-duotone >}}Publisher's website](https://doi.org/10.1007/978-3-030-97417-6_20-1)
+[{{< iconify icons8 pdf >}} Pre-print](chapters/ferry-2023/Preprint-ferry-2023.pdf) [{{< iconify ph book-duotone >}}Publisher's website](https://doi.org/10.1007/978-3-030-97417-6_20-1)
 :::
 
 ::: {.content-visible when-profile="french"}
-[{{< iconify icons8 pdf >}} Prépublication](ferry-2023/Preprint-ferry-2023.pdf) [{{< iconify ph book-duotone >}}Site de l'éditeur](https://doi.org/10.1007/978-3-030-97417-6_20-1)
+[{{< iconify icons8 pdf >}} Prépublication](chapters/ferry-2023/Preprint-ferry-2023.pdf) [{{< iconify ph book-duotone >}}Site de l'éditeur](https://doi.org/10.1007/978-3-030-97417-6_20-1)
 :::
 
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ page-layout: full
 Bruckert, M., & **Ferry, M.** (2023). Changing Food Habits in Contemporary India: Discourses and Practices among the Middle Classes. In K. A. Jacobsen (Ed.), *Routledge Handbook of Contemporary India* (2nd ed.). Routledge.
 
 ::: {.content-visible when-profile="english"}
-[{{< iconify icons8 pdf >}} Pre-print](bruckert-ferry-2023/Bruckert_Ferry_2023.pdf) [{{< iconify ph book-duotone >}}Publisher's website](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003278436-42/changing-food-habits-contemporary-india-micha%C3%ABl-bruckert-mathieu-ferry)
+[{{< iconify icons8 pdf >}} Pre-print](chapters/bruckert-ferry-2023/Bruckert_Ferry_2023.pdf) [{{< iconify ph book-duotone >}}Publisher's website](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003278436-42/changing-food-habits-contemporary-india-micha%C3%ABl-bruckert-mathieu-ferry)
 :::
 
 ::: {.content-visible when-profile="french"}
-[{{< iconify icons8 pdf >}} Prépublication](bruckert-ferry-2023/Bruckert_Ferry_2023.pdf) [{{< iconify ph book-duotone >}}Site de l'éditeur](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003278436-42/changing-food-habits-contemporary-india-micha%C3%ABl-bruckert-mathieu-ferry)
+[{{< iconify icons8 pdf >}} Prépublication](chapters/bruckert-ferry-2023/Bruckert_Ferry_2023.pdf) [{{< iconify ph book-duotone >}}Site de l'éditeur](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003278436-42/changing-food-habits-contemporary-india-micha%C3%ABl-bruckert-mathieu-ferry)
 :::
 
 ------------------------------------------------------------------------
@@ -62,11 +62,11 @@ Naudet, J., Allorant, A., & **Ferry, M.** (2019). Heirs, Corporate Aristocrats, 
 ::: {.content-visible when-profile="english"}
 [{{< iconify ph book-duotone >}}Publisher's website](https://doi.org/10.1093/oso/9780199491070.003.0003)
 
-*Note: this chapter is a slightly edited version of our journal article published in the* [Socio-Economic Review](https://doi.org/10.1093/ser/mwx035) *(available here as a [PDF](naudet-allorant-ferry-2018/ser.pdf)).*
+*Note: this chapter is a slightly edited version of our journal article published in the* [Socio-Economic Review](https://doi.org/10.1093/ser/mwx035) *(available here as a [PDF](articles/naudet-allorant-ferry-2018/ser.pdf)).*
 :::
 
 ::: {.content-visible when-profile="french"}
 [{{< iconify ph book-duotone >}}Site de l'éditeur](https://doi.org/10.1093/oso/9780199491070.003.0003)
 
-*Note: ce chapitre est une version légèrement remaniée d'un article publié dans la* [Socio-Economic Review](https://doi.org/10.1093/ser/mwx035) *(disponible ici en [PDF](naudet-allorant-ferry-2018/ser.pdf)).*
+*Note: ce chapitre est une version légèrement remaniée d'un article publié dans la* [Socio-Economic Review](https://doi.org/10.1093/ser/mwx035) *(disponible ici en [PDF](articles/naudet-allorant-ferry-2018/ser.pdf)).*
 :::

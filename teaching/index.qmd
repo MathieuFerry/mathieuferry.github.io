@@ -6,7 +6,7 @@ page-layout: full
 ::: {.content-visible when-profile="english"}
 # Teaching {{< iconify mdi teacher >}}
 
-In the course of teaching quantitative methods for the social sciences, I've started to compile some course materials here.
+In the course of teaching quantitative methods for the social sciences, I have started to compile some course materials here.
 
 ## Data Analysis
 
@@ -16,7 +16,7 @@ You will find some of the guided exercise solutions [here](https://mathieuferry.
 
 ## Textual Analysis
 
-I will be participating in the [Pondicherry Social Science Winter School](https://www.ifpindia.org/ifp-in-spotlight/apply-now-digital-society-social-sciences-winter-school-november-13-17-2023-Ifp/) in November 2023, where I will co-host the "Computational and Mixed Methods" workshop. During the workshop, I will be presenting Max Reinert's text analysis method, which has been developed in the R package "rainette" by Julien Barnier. This method will be applied to data collected from matrimonial advertisements on an Indian website.
+I am participating in the [Pondicherry Social Science Winter School](https://www.ifpindia.org/ifp-in-spotlight/apply-now-digital-society-social-sciences-winter-school-november-13-17-2023-Ifp/) in November 2023, where I will co-host the "Computational and Mixed Methods" workshop. During the workshop, I will be presenting Max Reinert's textual analysis method, which is now available in the "rainette" R package developed by Julien Barnier. This method will be applied to data collected from matrimonial advertisements on an Indian website.
 
 You can access the tutorials for the workshop [here](https://mathieuferry.github.io/PondicherryWorkshop/).
 :::
@@ -28,13 +28,13 @@ Dans le cadre des enseignements de méthodes quantitatives pour les sciences soc
 
 ## Analyse des données
 
-Le cours d'Analyse des données s'adresse à des étudiants de L3 "Mathématiques et Informatiques Appliquées aux Sciences Humaines et Sociales" (MIASHS) et constitue également un électif pour les étudiants de L3 en sociologie. Il propose une introduction à l'Analyse Géométrique des Données : le cours magistral articule présentation des méthodes et illustrations en sciences sociales, et les travaux dirigés sont consacrés à l'application des méthodes sur des jeux de données réelles à l'aide du logiciel R.
+Le cours d'Analyse des données s'adresse à des étudiants de L3 "Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales" (MIASHS) et constitue également un électif pour les étudiants de L3 en sociologie. Il propose une introduction à l'Analyse Géométrique des Données : le cours magistral articule présentation des méthodes et illustrations en sciences sociales, et les travaux dirigés sont consacrés à l'application des méthodes sur des jeux de données réelles à l'aide du logiciel R.
 
 On pourra retrouver quelques corrigés des travaux dirigés [ici](https://mathieuferry.github.io/AnalyseDesDonnees/).
 
 ## Séminaire d'Analyse Textuelle
 
-Je participe à la [Winter School de Pondicherry](https://www.ifpindia.org/ifp-in-spotlight/apply-now-digital-society-social-sciences-winter-school-november-13-17-2023-Ifp/) en novembre 2023, en co-animant le workshop "Computational and mixed methods". Je présente la méthode d'analyse textuelle de Max Reinert qui a été développée dans le package R "rainette" par Julien Barnier. La méthode est appliquée sur des données issues d'une aspiration des annonces matrimoniales d'un site internet indien.
+Je participe à la [Winter School de Pondicherry](https://www.ifpindia.org/ifp-in-spotlight/apply-now-digital-society-social-sciences-winter-school-november-13-17-2023-Ifp/) en novembre 2023, en co-animant le workshop "Computational and mixed methods". Je présente la méthode d'analyse textuelle développée par Max Reinert, maintenant disponible dans R grâce au package R "rainette" dévelopé par Julien Barnier. J'illustre cette d'exploration textuelle à partir de données issues d'une aspiration d'annonces matrimoniales d'un site internet indien.
 
 Les tutoriels du workshop sont à retrouver [ici](https://mathieuferry.github.io/PondicherryWorkshop/).
 :::
