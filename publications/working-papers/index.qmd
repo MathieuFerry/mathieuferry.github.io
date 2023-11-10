@@ -4,12 +4,6 @@ page-layout: full
 ---
 
 ::: {.content-visible when-profile="english"}
-**Ferry, M.** (2019). Caste links. Quantifying social identities using open-ended questions. *Sciences Po OSC Papers,* 1.
-
-[{{< iconify icons8 pdf >}} PDF](https://www.sciencespo.fr/osc/sites/sciencespo.fr.osc/files/OP_2019-1-EN-def.pdf) [{{< iconify gg website >}} Website](https://www.sciencespo.fr/osc/fr/node/2089.html)
-
-------------------------------------------------------------------------
-
 Weber, R., **Ferry, M.**, & Ichou, M. (2023). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France. *Documents de travail Ined,* 278.
 
 [{{< iconify icons8 pdf >}} PDF](https://archined.ined.fr/download/publication/E5OPhosBhU4QGwadVTE1/36fe6e5514cb19419c2bdf1cbc68b9d51699446278245.pdf) [{{< iconify gg website >}} Website](https://archined.ined.fr/view/E5OPhosBhU4QGwadVTE1)
@@ -19,15 +13,15 @@ Weber, R., **Ferry, M.**, & Ichou, M. (2023). Which Degree for Which Occupation?
 **Ferry, M.**, & Subtil, J. (2023). Digitized Matchmaking. Marriage-making strategies of the New Middle Class through online matrimonial advertisements in India. *CSH-IFP Working Papers,* 19.
 
 [{{< iconify icons8 pdf >}} PDF](https://mathieuferry.github.io/PondicherryWorkshop/material/wp/Digitized%20Matchmaking_WP19.pdf)
-:::
-
-::: {.content-visible when-profile="french"}
-**Ferry, M.** (2019). Les liens de la caste : Quantifier des identités sociales à l'aide de questions ouvertes. *Sciences Po OSC Papers,* 1.
-
-[{{< iconify icons8 pdf >}} PDF](https://www.sciencespo.fr/osc/sites/sciencespo.fr.osc/files/OP_2019-1_FR_def.pdf) [{{< iconify gg website >}} Site web](https://www.sciencespo.fr/osc/fr/node/2089.html)
 
 ------------------------------------------------------------------------
 
+**Ferry, M.** (2019). Caste links. Quantifying social identities using open-ended questions. *Sciences Po OSC Papers,* 1.
+
+[{{< iconify icons8 pdf >}} PDF](https://www.sciencespo.fr/osc/sites/sciencespo.fr.osc/files/OP_2019-1-EN-def.pdf) [{{< iconify gg website >}} Website](https://www.sciencespo.fr/osc/fr/node/2089.html)
+:::
+
+::: {.content-visible when-profile="french"}
 Weber, R., **Ferry, M.**, & Ichou, M. (2023). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France., *Documents de travail Ined,* 278.
 
 [{{< iconify icons8 pdf >}} PDF](https://archined.ined.fr/download/publication/E5OPhosBhU4QGwadVTE1/36fe6e5514cb19419c2bdf1cbc68b9d51699446278245.pdf) [{{< iconify gg website >}} Website](https://archined.ined.fr/view/E5OPhosBhU4QGwadVTE1)
@@ -37,6 +31,12 @@ Weber, R., **Ferry, M.**, & Ichou, M. (2023). Which Degree for Which Occupation?
 **Ferry, M.**, & Subtil, J. (2023). Digitized Matchmaking. Marriage-making strategies of the New Middle Class through online matrimonial advertisements in India. *CSH-IFP Working Papers,* 19.
 
 [{{< iconify icons8 pdf >}} PDF](https://mathieuferry.github.io/PondicherryWorkshop/material/wp/Digitized%20Matchmaking_WP19.pdf)
+
+------------------------------------------------------------------------
+
+**Ferry, M.** (2019). Les liens de la caste : Quantifier des identités sociales à l'aide de questions ouvertes. *Sciences Po OSC Papers,* 1.
+
+[{{< iconify icons8 pdf >}} PDF](https://www.sciencespo.fr/osc/sites/sciencespo.fr.osc/files/OP_2019-1_FR_def.pdf) [{{< iconify gg website >}} Site web](https://www.sciencespo.fr/osc/fr/node/2089.html)
 :::
 
 ------------------------------------------------------------------------
