@@ -18,6 +18,13 @@ git branch -M main
 git push -u origin main
 
 
+quarto render --profile english
+quarto render --profile french
+git add . 
+git commit -m "suivre"
+git branch -M main
+git push -u origin main
+
 
 quarto render --profile english
 quarto render --profile french
