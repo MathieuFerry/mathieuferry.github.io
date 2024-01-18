@@ -4,6 +4,22 @@ page-layout: full
 ---
 
 ::: {.content-visible when-profile="english"}
+*The following three working papers compile several analyses to which I have contributed, drawing on the "Trajectoires & Origines 2" (TeO2) survey focused on immigrants and immigrants' descendants in metropolitan France. These papers are intended for publication as chapters in a book project that is presently under review:*
+
+**Ferry, M.**, Tanneau, P., Simon, P., 2023. De la mixité des ascendances à l’hybridation des généalogies. *Documents de travail*, n°288, Aubervilliers : Ined.
+
+[{{< iconify gg website >}} Website](https://doi.org/10.48756/ined-dt-288.0124)
+
+**Ferry, M.**, Simon, P., 2023. Les rapports aux origines : des identités mouvantes confrontées aux assignations. *Documents de travail*, n°287, Aubervilliers : Ined.
+
+[{{< iconify gg website >}} Website](https://archined.ined.fr/view/d5wI84wB-5e4nGnw6Kgw)
+
+Caron, L., **Ferry, M.**, Ichou, M., 2023. Diversité sociale des immigré·es et de leurs enfants : positions et mobilité intergénérationnelle. *Documents de travail,* n°282, Aubervilliers : Ined.
+
+[{{< iconify gg website >}} Website](https://doi.org/10.48756/ined-dt-282.1123)
+
+------------------------------------------------------------------------
+
 Weber, R., **Ferry, M.**, & Ichou, M. (2023). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France. *Documents de travail Ined,* 278.
 
 [{{< iconify icons8 pdf >}} PDF](https://archined.ined.fr/download/publication/E5OPhosBhU4QGwadVTE1/36fe6e5514cb19419c2bdf1cbc68b9d51699446278245.pdf) [{{< iconify gg website >}} Website](https://archined.ined.fr/view/E5OPhosBhU4QGwadVTE1)
@@ -22,9 +38,25 @@ Weber, R., **Ferry, M.**, & Ichou, M. (2023). Which Degree for Which Occupation?
 :::
 
 ::: {.content-visible when-profile="french"}
+*Les trois documents de travail suivants rassemblent plusieurs analyses auxquelles j'ai contribué, en se basant sur l'enquête "Trajectoires & Origines 2" (TeO2) portant sur les immigrants et leurs descendants en France métropolitaine. Ils sont destinés à être publiés en tant que chapitres d'un ouvrage actuellement en cours de révision :*
+
+**Ferry, M.**, Tanneau, P., Simon, P., 2023. De la mixité des ascendances à l’hybridation des généalogies. *Documents de travail*, n°288, Aubervilliers : Ined.
+
+[{{< iconify gg website >}} Website](https://doi.org/10.48756/ined-dt-288.0124)
+
+**Ferry, M.**, Simon, P., 2023. Les rapports aux origines : des identités mouvantes confrontées aux assignations. *Documents de travail*, n°287, Aubervilliers : Ined.
+
+[{{< iconify gg website >}} Website](https://archined.ined.fr/view/d5wI84wB-5e4nGnw6Kgw)
+
+Caron, L., **Ferry, M.**, Ichou, M., 2023. Diversité sociale des immigré·es et de leurs enfants : positions et mobilité intergénérationnelle. *Documents de travail,* n°282, Aubervilliers : Ined.
+
+[{{< iconify gg website >}} Website](https://doi.org/10.48756/ined-dt-282.1123)
+
+------------------------------------------------------------------------
+
 Weber, R., **Ferry, M.**, & Ichou, M. (2023). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France., *Documents de travail Ined,* 278.
 
-[{{< iconify icons8 pdf >}} PDF](https://archined.ined.fr/download/publication/E5OPhosBhU4QGwadVTE1/36fe6e5514cb19419c2bdf1cbc68b9d51699446278245.pdf) [{{< iconify gg website >}} Website](https://archined.ined.fr/view/E5OPhosBhU4QGwadVTE1)
+[{{< iconify icons8 pdf >}} PDF](https://archined.ined.fr/download/publication/E5OPhosBhU4QGwadVTE1/36fe6e5514cb19419c2bdf1cbc68b9d51699446278245.pdf) [{{< iconify gg website >}} Site web](https://archined.ined.fr/view/E5OPhosBhU4QGwadVTE1)
 
 ------------------------------------------------------------------------
 

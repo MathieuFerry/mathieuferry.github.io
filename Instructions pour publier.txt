@@ -2,7 +2,8 @@ Pour publier
 https://quarto.org/docs/output-formats/html-publishing.html
 https://quarto.org/docs/publishing/github-pages.html
 
-
+Pour ajouter un nouvel ordinateur : 
+https://aragonalvarez.medium.com/how-to-setup-your-git-github-account-on-another-computer-abd32d712ef5 
 
 (git init)
 
