@@ -23,6 +23,6 @@ git push -u origin main
 quarto render --profile english
 quarto render --profile french
 git add .
-git commit -m "CV correction"
+git commit -m "Update18/01/24"
 git branch -M main
 git push -u origin main
