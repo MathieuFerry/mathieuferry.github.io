@@ -6,7 +6,7 @@ page-layout: full
 
 ::: {.content-visible when-profile="french"}
 **Ferry M.** (2024). Le gastro-nationalisme de la vache en Inde. L’instrumentalisation d’un symbole religieux dans le renforcement du sentiment national hindou et la stigmatisation des musulmans, *Critique internationale*, *103* (2), 11‑-38.
-[{{< iconify ph newspaper-light >}} Revue](https://www.cairn.info/revue-critique-internationale-2024-2-page-11.htm)
+[{{< iconify ph newspaper-light >}} DOI](https://www.cairn.info/revue-critique-internationale-2024-2-page-11.htm)
 :::
 
 ::: {.content-visible when-profile="english"}

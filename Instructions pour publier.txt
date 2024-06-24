@@ -24,6 +24,6 @@ git push -u origin main
 quarto render --profile english
 quarto render --profile french
 git add .
-git commit -m "Update18/01/24v2"
+git commit -m "Update24/06/24v2"
 git branch -M main
 git push -u origin main

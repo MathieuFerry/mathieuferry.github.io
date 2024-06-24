@@ -3,6 +3,18 @@ title: ""
 page-layout: full
 ---
 
+**Ferry, M.**, & Ichou, M. (2024). The role of migration for intergenerational mobility. In E. Kilpi-Jakonen, J. Blanden, J. Erola, & L. Macmillan (Eds.), *Research Handbook on Intergenerational Inequality* (pp. 249–263). Edward Elgar Publishing. 
+
+::: {.content-visible when-profile="english"}
+[{{< iconify icons8 pdf >}} Pre-print](chapters/ferry-ichou-2024/Ferry_Ichou_2024_ChapterIntergMobilityMigration.pdf) [{{< iconify ph book-duotone >}}Publisher's website](https://doi.org/10.4337/9781800888265.00027)
+:::
+
+::: {.content-visible when-profile="french"}
+[{{< iconify icons8 pdf >}} Prépublication](chapters/ferry-ichou-2024/Ferry_Ichou_2024_ChapterIntergMobilityMigration.pdf) [{{< iconify ph book-duotone >}}Site de l'éditeur](https://doi.org/10.4337/9781800888265.00027)
+:::
+
+------------------------------------------------------------------------
+
 **Ferry, M.**, 2023. Vegetarianism and Non-Vegetarian Consumption in India, in: Guilmoto, C.Z. (Ed.), *Atlas of Gender and Health Inequalities in India, Demographic Transformation and Socio-Economic Development*. Springer Nature Switzerland, Cham, pp. 29–39.
 
 ::: {.content-visible when-profile="english"}
