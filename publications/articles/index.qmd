@@ -3,6 +3,19 @@ title: ""
 page-layout: full
 ---
 
+
+::: {.content-visible when-profile="french"}
+**Ferry M.** (2024). Le gastro-nationalisme de la vache en Inde. L’instrumentalisation d’un symbole religieux dans le renforcement du sentiment national hindou et la stigmatisation des musulmans, *Critique internationale*, *103* (2), 11‑-38.
+[{{< iconify ph newspaper-light >}} Revue](https://www.cairn.info/revue-critique-internationale-2024-2-page-11.htm)
+:::
+
+::: {.content-visible when-profile="english"}
+**Ferry M.** (2024). Cow gastronationalism in India: The instrumentalization of a religious symbol in reinforcing Hindu national sentiment and stigmatizing Muslims, *Critique internationale*, *103* (2), 11‑-38.
+[{{< iconify ph newspaper-light >}} Revue](https://www.cairn-int.info/journal-critique-internationale-2024-2-page-11.htm)
+:::
+
+------------------------------------------------------------------------
+
 **Ferry, M.** (2022). Where Does Ascribed Privilege Get You in? Structural and Net Effects of Caste and Religious Belonging in India. *Sociology*, *56*(6), 1176--1199.
 
 ::: {.content-visible when-profile="english"}
