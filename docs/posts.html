@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Mathieu Ferry</title>
+<title>Mathieu Ferry - Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,9 +31,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./image/icon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -60,7 +63,38 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -83,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
@@ -100,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text"><iconify-icon inline="" icon="mdi:teacher"></iconify-icon> Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html" rel="" target=""><i class="bi bi-pencil" role="img">
+    <a class="nav-link active" href="./posts.html" rel="" target="" aria-current="page"><i class="bi bi-pencil" role="img">
 </i> 
  <span class="menu-text">Blog</span></a>
   </li>  
@@ -122,55 +156,79 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="POF">POF <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UVSQ">UVSQ <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cours">cours <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="image/photoperso.png" class="about-image
-  round " style="height: 10em; width: 10em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Mathieu Ferry</h1>
+<h1 class="title">Blog</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
 </header>
-    <div class="about-links">
-  <a href="https://scholar.google.com/citations?hl=fr&amp;user=c4AMq1sAAAAJ" class="about-link" rel="" target="">
-     <span class="about-link-text"><iconify-icon inline="" icon="academicons:google-scholar"></iconify-icon> Google scholar</span>
-  </a>
-  <a href="https://bsky.app/profile/mathieuferry.bsky.social" class="about-link" rel="" target="">
-     <span class="about-link-text"><iconify-icon inline="" icon="arcticons:bluesky"></iconify-icon> Bluesky</span>
-  </a>
-  <a href="https://twitter.com/mathieu_kf" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-  <a href="https://www.linkedin.com/in/mathieu-ferry-5796607b/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="mailto:mathieukferry@gmail.com" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<p>I am a sociologist and currently an Assistant Professor (Maître de conférences) at <a href="https://www.uvsq.fr/english">Université Versailles Saint-Quentin</a> (UVSQ, a founding member of <a href="https://www.universite-paris-saclay.fr/en">Université Paris-Saclay</a>), and a researcher at <a href="https://www.printemps.uvsq.fr/">Printemps</a>.</p>
-<p>Previously, I was a Postdoctoral Researcher at <a href="https://www.ined.fr/en/">Ined (French Institute for Demographic Studies)</a>.</p>
-<p>My research interests are in the study of social stratification, class and educational mobility, and lifestyle segmentation.</p>
-<p>In my <a href="https://hal-sciencespo.archives-ouvertes.fr/tel-03620008/document">PhD dissertation</a>, I investigated food-related caste and religious social dynamics of status, integration and stigmatization in contemporary India.</p>
-<p>In my current research, I study how caste and religion shape intergenerational class trajectories in a context of growing economic inequality and educational expansion in India. Along with the <a href="https://3gen.site.ined.fr/en/">3GEN</a> team, I also investigate the patterns and mechanisms of social mobility among migrant families in France.</p>
-<p>Methodologically, I use a combination of exploratory statistical tools (geometric data analysis), statistical modeling, and in-depth interviewing. In the case of quantitative data, I mainly use statistical surveys, including large harmonized data sets (IPUMS and DHS). I am also actively interested in the use of web harvested data for social sciences.</p>
 
 
-<script defer="" src="https://cloud.umami.is/script.js" data-website-id="2cc75ac6-21f8-41be-9c15-c3e06cbadefa"></script></main></div>
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="POF,UVSQ,cours" data-listing-date-sort="1732057200000" data-listing-file-modified-sort="1732054904271" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/2024-11-20-Passation-POF-UVSQ/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/2024-11-20-Passation-POF-UVSQ/preview-image.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Un (bref) retour sur la passation de l’enquête par questionnaire POF à l’UVSQ
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('POF'); return false;">
+POF
 </div>
- <!-- /main -->
+<div class="listing-category" onclick="window.quartoListingCategory('UVSQ'); return false;">
+UVSQ
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cours'); return false;">
+cours
+</div>
+</div>
+<div class="card-text listing-description">
+En novembre, les étudiant·es de L2 de sociologie ont collecté **** questionnaires
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Mathieu Ferry
+</div>
+<div class="listing-date">
+Nov 20, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><script defer="" src="https://cloud.umami.is/script.js" data-website-id="2cc75ac6-21f8-41be-9c15-c3e06cbadefa"></script></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -191,6 +249,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

@@ -37,5 +37,11 @@
   },
   "publications/working-papers/index.qmd": {
     "index.html": "9087edf2"
+  },
+  "posts.qmd": {
+    "posts.html": "2f41f492"
+  },
+  "posts/2024-11-20-Passation-POF-UVSQ/index.qmd": {
+    "index.html": "1ab07a84"
   }
 }

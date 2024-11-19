@@ -1,0 +1,29 @@
+---
+title: "Un (bref) retour sur la passation de l'enquête par questionnaire POF à l'UVSQ"
+description: "En novembre, les étudiant·es de L2 de sociologie ont collecté **** questionnaires"
+author:
+  - name: Mathieu Ferry
+    url: https://mathieuferry.github.io/fr/
+date: 11-20-2024
+categories: [POF, UVSQ, cours] # self-defined categories
+citation: 
+  url: https://mathieuferry.github.io/fr/posts/2024-11-20-Passation-POF-UVSQ/ 
+image: preview-image.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Au cours de la semaine du 18 au 22 novembre 2024, les étudiant·es de L2 de sociologie de 10 établissements du Collectif POF ont assuré la passation d'une enquête par questionnaire, dont le thème est cette année "L'engagement étudiant".
+
+À l'UVSQ, la passation a eu lieu sur trois jours (lundi, mardi, mercredi) et a été limitée (dans le souci de préserver les forces vives étudiantes, et parce que nous sommes encore des "bébés" au sein du collectif d'enquête national, pour n'y être que depuis la deuxième année !) au campus de Guyancourt dans les bâtiments Vauban et D'Alembert. \*\* étudiant·es ont été enquêteur·rices à tour de rôle pendant des créneaux de trois heures.
+
+Ce petit post revient rapidement sur les conditions de la passation, à partir des données collectées dans les "Fiches d'observation".
+
+# Le rythme de la passation
+
+# Une durée de passation dans les cordes
+
+# Les refus de passation
+
+# Les groupes d'enquêteur·rices
+
+# Sur quelques remarques au cours de la passation
