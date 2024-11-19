@@ -21,18 +21,53 @@
     "text": "Education\n2021 - PhD in Sociology, Sciences Po Paris (Observatoire Sociologique du Changement): What goes around meat eating, comes around: Vegetarianism as a status marker in comtemporary India. Supervisors: Philippe Coulangeon & Christophe Jaffrelot.\n2015-2017 - Master’s Degree from Université Paris-Saclay “Quantitative Sociology & Demography”."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mathieu Ferry",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching ",
     "section": "",
-    "text": "I am a sociologist and currently an Assistant Professor (Maître de conférences) at Université Versailles Saint-Quentin (UVSQ, a founding member of Université Paris-Saclay), and a researcher at Printemps.\nPreviously, I was a Postdoctoral Researcher at Ined (French Institute for Demographic Studies).\nMy research interests are in the study of social stratification, class and educational mobility, and lifestyle segmentation.\nIn my PhD dissertation, I investigated food-related caste and religious social dynamics of status, integration and stigmatization in contemporary India.\nIn my current research, I study how caste and religion shape intergenerational class trajectories in a context of growing economic inequality and educational expansion in India. Along with the 3GEN team, I also investigate the patterns and mechanisms of social mobility among migrant families in France.\nMethodologically, I use a combination of exploratory statistical tools (geometric data analysis), statistical modeling, and in-depth interviewing. In the case of quantitative data, I mainly use statistical surveys, including large harmonized data sets (IPUMS and DHS). I am also actively interested in the use of web harvested data for social sciences."
+    "text": "In the course of teaching quantitative methods for the social sciences, I have started to compile some course materials here.\n\n\nThe Data Analysis course is designed for 3rd year undergraduate students in the “Mathematics for social sciences” and in the sociology tracks. It offers an introduction to Geometric Data Analysis: the lecture combines method presentations with real-world social science applications, and the tutorials focus on applying these methods to real datasets using the R software.\nYou will find some of the guided exercise solutions here.\n\n\n\nI am participating in the Pondicherry Social Science Winter School in November 2023, where I will co-host the “Computational and Mixed Methods” workshop. During the workshop, I will be presenting Max Reinert’s textual analysis method, which is now available in the “rainette” R package developed by Julien Barnier. This method will be applied to data collected from matrimonial advertisements on an Indian website.\nYou can access the tutorials for the workshop here."
   },
   {
-    "objectID": "publications/working-papers/index.html",
-    "href": "publications/working-papers/index.html",
+    "objectID": "teaching/index.html#data-analysis",
+    "href": "teaching/index.html#data-analysis",
+    "title": "Teaching ",
+    "section": "",
+    "text": "The Data Analysis course is designed for 3rd year undergraduate students in the “Mathematics for social sciences” and in the sociology tracks. It offers an introduction to Geometric Data Analysis: the lecture combines method presentations with real-world social science applications, and the tutorials focus on applying these methods to real datasets using the R software.\nYou will find some of the guided exercise solutions here."
+  },
+  {
+    "objectID": "teaching/index.html#textual-analysis",
+    "href": "teaching/index.html#textual-analysis",
+    "title": "Teaching ",
+    "section": "",
+    "text": "I am participating in the Pondicherry Social Science Winter School in November 2023, where I will co-host the “Computational and Mixed Methods” workshop. During the workshop, I will be presenting Max Reinert’s textual analysis method, which is now available in the “rainette” R package developed by Julien Barnier. This method will be applied to data collected from matrimonial advertisements on an Indian website.\nYou can access the tutorials for the workshop here."
+  },
+  {
+    "objectID": "publications/reviews/index.html",
+    "href": "publications/reviews/index.html",
     "title": "Mathieu Ferry",
     "section": "",
-    "text": "The following three working papers compile several analyses to which I have contributed, drawing on the “Trajectoires & Origines 2” (TeO2) survey focused on immigrants and immigrants’ descendants in metropolitan France. These papers are intended for publication as chapters in a book project that is presently under review:\nFerry, M., Tanneau, P., Simon, P., 2023. De la mixité des ascendances à l’hybridation des généalogies. Documents de travail, n°288, Aubervilliers : Ined.\n Website\nFerry, M., Simon, P., 2023. Les rapports aux origines : des identités mouvantes confrontées aux assignations. Documents de travail, n°287, Aubervilliers : Ined.\n Website\nCaron, L., Ferry, M., Ichou, M., 2023. Diversité sociale des immigré·es et de leurs enfants : positions et mobilité intergénérationnelle. Documents de travail, n°282, Aubervilliers : Ined.\n Website\n\nWeber, R., Ferry, M., & Ichou, M. (2023). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France. Documents de travail Ined, 278.\n PDF  Website\n\nFerry, M., & Subtil, J. (2023). Digitized Matchmaking. Marriage-making strategies of the New Middle Class through online matrimonial advertisements in India. CSH-IFP Working Papers, 19.\n PDF\n\nFerry, M. (2019). Caste links. Quantifying social identities using open-ended questions. Sciences Po OSC Papers, 1.\n PDF  Website"
+    "text": "Review of Uneven Odds: Social Mobility in Contemporary India (Oxford University Press India) from Divya Vaid, published in the South Asia Multidisciplinary Academic Journal (2018).\nWebsite\n\nReview of La Chair, les hommes et les dieux : La Viande en Inde (CNRS Éditions) from Michaël Bruckert, titled 'In the Land of Vegetarians', Books & Ideas (2018).\nWebsite\n\nReview of Contested Tastes : Foie Gras and the Politics of Food (Princeton UP) from Michaela DeSoucey, titled 'Le foie gras sous la mitraille', La Vie des Idées (2017).\nWebsite"
+  },
+  {
+    "objectID": "publications/nonpeerred-papers/index.html",
+    "href": "publications/nonpeerred-papers/index.html",
+    "title": "Mathieu Ferry",
+    "section": "",
+    "text": "Al Dahdah, M., Ferry, M., Guérin, I., & Venkatasubramanian, G. (2020). The Covid-19 Crisis in India. Books & ideas.\n Website\nNote: this article was also published in a shortened version in Public Books.\n\nFerry M. (2019). En Inde, des attaques contre les minorités au nom de la vache sacrée. Bulletin de l’Observatoire international du religieux, 31.\n Website\n\nFerry, M. (2018). Cow Terrorism. Books & ideas.\n Website"
+  },
+  {
+    "objectID": "publications/articles/index.html",
+    "href": "publications/articles/index.html",
+    "title": "Mathieu Ferry",
+    "section": "",
+    "text": "Ferry M. (2024). Cow gastronationalism in India: The instrumentalization of a religious symbol in reinforcing Hindu national sentiment and stigmatizing Muslims, Critique internationale, 103 (2), 11‑-38.  Revue\n\nFerry, M. (2022). Where Does Ascribed Privilege Get You in? Structural and Net Effects of Caste and Religious Belonging in India. Sociology, 56(6), 1176–1199.\n Pre-print  DOI\n\nFerry, M. (2020). What’s India’s Beef with Meat? Hindu Orthopraxis and Food Transition in India Since the 1980. Sociological Forum, 35(2), 511–534.\n PDF  DOI\n\nNaudet, J., Allorant, A., & Ferry, M. (2018). Heirs, corporate aristocrats and ‘Meritocrats’: the social space of top CEOs and Chairmen in India. Socio-Economic Review, 16(2), 307–339.\n PDF  DOI\n\nFerry, M., Naudet, J., & Roueff, O. (2018). Seeking the Indian social space. A multidimensional portrait of the stratifications of Indian society. South Asia Multidisciplinary Academic Journal.\n PDF  DOI\n\nHenry, O., & Ferry, M. (2017). When Cracking the JEE is not Enough. South Asia Multidisciplinary Academic Journal, 15.\n PDF  DOI"
+  },
+  {
+    "objectID": "publications/chapters/index.html",
+    "href": "publications/chapters/index.html",
+    "title": "Mathieu Ferry",
+    "section": "",
+    "text": "Ferry, M., & Ichou, M. (2024). The role of migration for intergenerational mobility. In E. Kilpi-Jakonen, J. Blanden, J. Erola, & L. Macmillan (Eds.), Research Handbook on Intergenerational Inequality (pp. 249–263). Edward Elgar Publishing.\n Pre-print Publisher’s website\n\nFerry, M., 2023. Vegetarianism and Non-Vegetarian Consumption in India, in: Guilmoto, C.Z. (Ed.), Atlas of Gender and Health Inequalities in India, Demographic Transformation and Socio-Economic Development. Springer Nature Switzerland, Cham, pp. 29–39.\n Main map Publisher’s website\n\nFerry, M. (2023). Social Honour. In S. S. Jodhka & B. Rehbein (Eds.), Global Handbook of Inequality. Cham: Springer International Publishing (living reference work entry).\n Pre-print Publisher’s website\n\nBruckert, M., & Ferry, M. (2023). Changing Food Habits in Contemporary India: Discourses and Practices among the Middle Classes. In K. A. Jacobsen (Ed.), Routledge Handbook of Contemporary India (2nd ed.). Routledge.\n Pre-print Publisher’s website\n\nHenry, O., & Ferry, M. (2022). Assignation statutaire et valeur sociale des diplômes Le devenir scolaire et professionnel des élèves ­d’un Institut indien de technologie au prisme des catégories de réservation. In C. Gadéa & R. Lardinois (Eds.), Les Mondes de l’ingénieur en Inde (xixe-xxie siècle) (Vol. 24, pp. 147–171). Paris: Classiques Garnier.\n Pre-print Publisher’s website\nNote: this chapter synthesizes two of our research outputs on caste inequality in higher education (in the engineering field) in India, one of which is already available in English in SAMAJ and the other coming out soon as a book chapter at OUP.\n\nAl Dahdah, M., Ferry, M., Guérin, I., & Venkatasubramanian, G. (2021). India in COVID-19: A Tragedy Foretold. In T. J. Sugrue & C. Zaloom (Eds.), The long year: a 2020 reader. New York: Columbia University Press.\nPublisher’s website\nNote: this chapter is a slightly edited version of our text published on Books&Ideas.\n\nNaudet, J., Allorant, A., & Ferry, M. (2019). Heirs, Corporate Aristocrats, and ‘Meritocrats’: The Social Space of Top CEOs and Chairpersons in India. In S. S. Jodhka & J. Naudet (Eds.), Mapping the Elite: Power, Privilege, and Inequality (pp. 70–114). Oxford University Press.\nPublisher’s website\nNote: this chapter is a slightly edited version of our journal article published in the Socio-Economic Review (available here as a PDF)."
   },
   {
     "objectID": "publications/index.html",
@@ -77,66 +112,24 @@
     "text": "Review of Uneven Odds: Social Mobility in Contemporary India (Oxford University Press India) from Divya Vaid, published in the South Asia Multidisciplinary Academic Journal (2018).\nWebsite\n\nReview of La Chair, les hommes et les dieux : La Viande en Inde (CNRS Éditions) from Michaël Bruckert, titled 'In the Land of Vegetarians', Books & Ideas (2018).\nWebsite\n\nReview of Contested Tastes : Foie Gras and the Politics of Food (Princeton UP) from Michaela DeSoucey, titled 'Le foie gras sous la mitraille', La Vie des Idées (2017).\nWebsite"
   },
   {
-    "objectID": "publications/chapters/index.html",
-    "href": "publications/chapters/index.html",
+    "objectID": "publications/working-papers/index.html",
+    "href": "publications/working-papers/index.html",
     "title": "Mathieu Ferry",
     "section": "",
-    "text": "Ferry, M., & Ichou, M. (2024). The role of migration for intergenerational mobility. In E. Kilpi-Jakonen, J. Blanden, J. Erola, & L. Macmillan (Eds.), Research Handbook on Intergenerational Inequality (pp. 249–263). Edward Elgar Publishing.\n Pre-print Publisher’s website\n\nFerry, M., 2023. Vegetarianism and Non-Vegetarian Consumption in India, in: Guilmoto, C.Z. (Ed.), Atlas of Gender and Health Inequalities in India, Demographic Transformation and Socio-Economic Development. Springer Nature Switzerland, Cham, pp. 29–39.\n Main map Publisher’s website\n\nFerry, M. (2023). Social Honour. In S. S. Jodhka & B. Rehbein (Eds.), Global Handbook of Inequality. Cham: Springer International Publishing (living reference work entry).\n Pre-print Publisher’s website\n\nBruckert, M., & Ferry, M. (2023). Changing Food Habits in Contemporary India: Discourses and Practices among the Middle Classes. In K. A. Jacobsen (Ed.), Routledge Handbook of Contemporary India (2nd ed.). Routledge.\n Pre-print Publisher’s website\n\nHenry, O., & Ferry, M. (2022). Assignation statutaire et valeur sociale des diplômes Le devenir scolaire et professionnel des élèves ­d’un Institut indien de technologie au prisme des catégories de réservation. In C. Gadéa & R. Lardinois (Eds.), Les Mondes de l’ingénieur en Inde (xixe-xxie siècle) (Vol. 24, pp. 147–171). Paris: Classiques Garnier.\n Pre-print Publisher’s website\nNote: this chapter synthesizes two of our research outputs on caste inequality in higher education (in the engineering field) in India, one of which is already available in English in SAMAJ and the other coming out soon as a book chapter at OUP.\n\nAl Dahdah, M., Ferry, M., Guérin, I., & Venkatasubramanian, G. (2021). India in COVID-19: A Tragedy Foretold. In T. J. Sugrue & C. Zaloom (Eds.), The long year: a 2020 reader. New York: Columbia University Press.\nPublisher’s website\nNote: this chapter is a slightly edited version of our text published on Books&Ideas.\n\nNaudet, J., Allorant, A., & Ferry, M. (2019). Heirs, Corporate Aristocrats, and ‘Meritocrats’: The Social Space of Top CEOs and Chairpersons in India. In S. S. Jodhka & J. Naudet (Eds.), Mapping the Elite: Power, Privilege, and Inequality (pp. 70–114). Oxford University Press.\nPublisher’s website\nNote: this chapter is a slightly edited version of our journal article published in the Socio-Economic Review (available here as a PDF)."
+    "text": "The following three working papers compile several analyses to which I have contributed, drawing on the “Trajectoires & Origines 2” (TeO2) survey focused on immigrants and immigrants’ descendants in metropolitan France. These papers are intended for publication as chapters in a book project that is presently under review:\nFerry, M., Tanneau, P., Simon, P., 2023. De la mixité des ascendances à l’hybridation des généalogies. Documents de travail, n°288, Aubervilliers : Ined.\n Website\nFerry, M., Simon, P., 2023. Les rapports aux origines : des identités mouvantes confrontées aux assignations. Documents de travail, n°287, Aubervilliers : Ined.\n Website\nCaron, L., Ferry, M., Ichou, M., 2023. Diversité sociale des immigré·es et de leurs enfants : positions et mobilité intergénérationnelle. Documents de travail, n°282, Aubervilliers : Ined.\n Website\n\nWeber, R., Ferry, M., & Ichou, M. (2023). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France. Documents de travail Ined, 278.\n PDF  Website\n\nFerry, M., & Subtil, J. (2023). Digitized Matchmaking. Marriage-making strategies of the New Middle Class through online matrimonial advertisements in India. CSH-IFP Working Papers, 19.\n PDF\n\nFerry, M. (2019). Caste links. Quantifying social identities using open-ended questions. Sciences Po OSC Papers, 1.\n PDF  Website"
   },
   {
-    "objectID": "publications/articles/index.html",
-    "href": "publications/articles/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Mathieu Ferry",
     "section": "",
-    "text": "Ferry M. (2024). Cow gastronationalism in India: The instrumentalization of a religious symbol in reinforcing Hindu national sentiment and stigmatizing Muslims, Critique internationale, 103 (2), 11‑-38.  Revue\n\nFerry, M. (2022). Where Does Ascribed Privilege Get You in? Structural and Net Effects of Caste and Religious Belonging in India. Sociology, 56(6), 1176–1199.\n Pre-print  DOI\n\nFerry, M. (2020). What’s India’s Beef with Meat? Hindu Orthopraxis and Food Transition in India Since the 1980. Sociological Forum, 35(2), 511–534.\n PDF  DOI\n\nNaudet, J., Allorant, A., & Ferry, M. (2018). Heirs, corporate aristocrats and ‘Meritocrats’: the social space of top CEOs and Chairmen in India. Socio-Economic Review, 16(2), 307–339.\n PDF  DOI\n\nFerry, M., Naudet, J., & Roueff, O. (2018). Seeking the Indian social space. A multidimensional portrait of the stratifications of Indian society. South Asia Multidisciplinary Academic Journal.\n PDF  DOI\n\nHenry, O., & Ferry, M. (2017). When Cracking the JEE is not Enough. South Asia Multidisciplinary Academic Journal, 15.\n PDF  DOI"
-  },
-  {
-    "objectID": "publications/nonpeerred-papers/index.html",
-    "href": "publications/nonpeerred-papers/index.html",
-    "title": "Mathieu Ferry",
-    "section": "",
-    "text": "Al Dahdah, M., Ferry, M., Guérin, I., & Venkatasubramanian, G. (2020). The Covid-19 Crisis in India. Books & ideas.\n Website\nNote: this article was also published in a shortened version in Public Books.\n\nFerry M. (2019). En Inde, des attaques contre les minorités au nom de la vache sacrée. Bulletin de l’Observatoire international du religieux, 31.\n Website\n\nFerry, M. (2018). Cow Terrorism. Books & ideas.\n Website"
-  },
-  {
-    "objectID": "publications/reviews/index.html",
-    "href": "publications/reviews/index.html",
-    "title": "Mathieu Ferry",
-    "section": "",
-    "text": "Review of Uneven Odds: Social Mobility in Contemporary India (Oxford University Press India) from Divya Vaid, published in the South Asia Multidisciplinary Academic Journal (2018).\nWebsite\n\nReview of La Chair, les hommes et les dieux : La Viande en Inde (CNRS Éditions) from Michaël Bruckert, titled 'In the Land of Vegetarians', Books & Ideas (2018).\nWebsite\n\nReview of Contested Tastes : Foie Gras and the Politics of Food (Princeton UP) from Michaela DeSoucey, titled 'Le foie gras sous la mitraille', La Vie des Idées (2017).\nWebsite"
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching ",
-    "section": "",
-    "text": "In the course of teaching quantitative methods for the social sciences, I have started to compile some course materials here.\n\n\nThe Data Analysis course is designed for 3rd year undergraduate students in the “Mathematics for social sciences” and in the sociology tracks. It offers an introduction to Geometric Data Analysis: the lecture combines method presentations with real-world social science applications, and the tutorials focus on applying these methods to real datasets using the R software.\nYou will find some of the guided exercise solutions here.\n\n\n\nI am participating in the Pondicherry Social Science Winter School in November 2023, where I will co-host the “Computational and Mixed Methods” workshop. During the workshop, I will be presenting Max Reinert’s textual analysis method, which is now available in the “rainette” R package developed by Julien Barnier. This method will be applied to data collected from matrimonial advertisements on an Indian website.\nYou can access the tutorials for the workshop here."
-  },
-  {
-    "objectID": "teaching/index.html#data-analysis",
-    "href": "teaching/index.html#data-analysis",
-    "title": "Teaching ",
-    "section": "",
-    "text": "The Data Analysis course is designed for 3rd year undergraduate students in the “Mathematics for social sciences” and in the sociology tracks. It offers an introduction to Geometric Data Analysis: the lecture combines method presentations with real-world social science applications, and the tutorials focus on applying these methods to real datasets using the R software.\nYou will find some of the guided exercise solutions here."
-  },
-  {
-    "objectID": "teaching/index.html#textual-analysis",
-    "href": "teaching/index.html#textual-analysis",
-    "title": "Teaching ",
-    "section": "",
-    "text": "I am participating in the Pondicherry Social Science Winter School in November 2023, where I will co-host the “Computational and Mixed Methods” workshop. During the workshop, I will be presenting Max Reinert’s textual analysis method, which is now available in the “rainette” R package developed by Julien Barnier. This method will be applied to data collected from matrimonial advertisements on an Indian website.\nYou can access the tutorials for the workshop here."
+    "text": "I am a sociologist and currently an Assistant Professor (Maître de conférences) at Université Versailles Saint-Quentin (UVSQ, a founding member of Université Paris-Saclay), and a researcher at Printemps.\nPreviously, I was a Postdoctoral Researcher at Ined (French Institute for Demographic Studies).\nMy research interests are in the study of social stratification, class and educational mobility, and lifestyle segmentation.\nIn my PhD dissertation, I investigated food-related caste and religious social dynamics of status, integration and stigmatization in contemporary India.\nIn my current research, I study how caste and religion shape intergenerational class trajectories in a context of growing economic inequality and educational expansion in India. Along with the 3GEN team, I also investigate the patterns and mechanisms of social mobility among migrant families in France.\nMethodologically, I use a combination of exploratory statistical tools (geometric data analysis), statistical modeling, and in-depth interviewing. In the case of quantitative data, I mainly use statistical surveys, including large harmonized data sets (IPUMS and DHS). I am also actively interested in the use of web harvested data for social sciences."
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Un (bref) retour sur la passation de l’enquête par questionnaire POF à l’UVSQ\n\n\n\nPOF\n\n\nUVSQ\n\n\ncours\n\n\n\nEn novembre, les étudiant·es de L2 de sociologie ont collecté **** questionnaires\n\n\n\nMathieu Ferry\n\n\nNov 20, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2024-11-20-Passation-POF-UVSQ/index.html",
-    "href": "posts/2024-11-20-Passation-POF-UVSQ/index.html",
-    "title": "Un (bref) retour sur la passation de l’enquête par questionnaire POF à l’UVSQ",
-    "section": "",
-    "text": "Au cours de la semaine du 18 au 22 novembre 2024, les étudiant·es de L2 de sociologie de 10 établissements du Collectif POF ont assuré la passation d’une enquête par questionnaire, dont le thème est cette année “L’engagement étudiant”.\nÀ l’UVSQ, la passation a eu lieu sur trois jours (lundi, mardi, mercredi) et a été limitée (dans le souci de préserver les forces vives étudiantes, et parce que nous sommes encore des “bébés” au sein du collectif d’enquête national, pour n’y être que depuis la deuxième année !) au campus de Guyancourt dans les bâtiments Vauban et D’Alembert. ** étudiant·es ont été enquêteur·rices à tour de rôle pendant des créneaux de trois heures.\nCe petit post revient rapidement sur les conditions de la passation, à partir des données collectées dans les “Fiches d’observation”.\n\nLe rythme de la passation\n\n\nUne durée de passation dans les cordes\n\n\nLes refus de passation\n\n\nLes groupes d’enquêteur·rices\n\n\nSur quelques remarques au cours de la passation\n\n\n\n\nCitationBibTeX citation:@online{ferry2024,\n  author = {Ferry, Mathieu},\n  title = {Un (Bref) Retour Sur La Passation de l’enquête Par\n    Questionnaire {POF} à {l’UVSQ}},\n  date = {2024-11-20},\n  url = {https://mathieuferry.github.io/fr/posts/2024-11-20-Passation-POF-UVSQ/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nFerry, Mathieu. 2024. “Un (Bref) Retour Sur La Passation de\nl’enquête Par Questionnaire POF à l’UVSQ.” November 20, 2024. https://mathieuferry.github.io/fr/posts/2024-11-20-Passation-POF-UVSQ/."
+    "text": "No matching items"
   }
 ]
