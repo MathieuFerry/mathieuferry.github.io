@@ -1,6 +1,6 @@
 ---
-title: "Un (bref) retour sur la passation de l'enquête par questionnaire POF à l'UVSQ"
-description: "En novembre, les étudiant·es de L2 de sociologie ont collecté **** questionnaires"
+title: "POF à l'UVSQ, édition 2024"
+description: "Un (bref) retour sur la passation de l'enquête par questionnaire POF à l'UVSQ"
 author:
   - name: Mathieu Ferry
     url: https://mathieuferry.github.io/fr/
@@ -12,18 +12,34 @@ image: preview-image.png
 draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-Au cours de la semaine du 18 au 22 novembre 2024, les étudiant·es de L2 de sociologie de 10 établissements du Collectif POF ont assuré la passation d'une enquête par questionnaire, dont le thème est cette année "L'engagement étudiant".
+Au cours de la semaine du 18 au 22 novembre 2024, les étudiant·es de L2 de sociologie de 10 établissements membres du Collectif POF ont assuré la passation d'une enquête par questionnaire, dont le thème est cette année "L'engagement étudiant".
 
-À l'UVSQ, la passation a eu lieu sur trois jours (lundi, mardi, mercredi) et a été limitée (dans le souci de préserver les forces vives étudiantes, et parce que nous sommes encore des "bébés" au sein du collectif d'enquête national, pour n'y être que depuis la deuxième année !) au campus de Guyancourt dans les bâtiments Vauban et D'Alembert. \*\* étudiant·es ont été enquêteur·rices à tour de rôle pendant des créneaux de trois heures.
+À l'UVSQ, la passation a eu lieu sur trois jours (lundi, mardi, mercredi) et a été limitée au campus de Guyancourt dans les bâtiments Vauban et D'Alembert\^\[L'UVSQ est étalée sur un territoire géographique relativement vaste que nous n'avons pas eu la prétention de couvrir, dans le souci de préserver les forces vives étudiantes, et parce que nous sommes encore des "bébés" au sein du collectif d'enquête national, pour n'y être que depuis la deuxième année !\]. \*\* étudiant·es ont été enquêteur·rices à tour de rôle pendant des créneaux de trois heures et ont enquêté une sélection de salles tirées au sort pour construire un échantillon d'étudiant·es répondant·es représentatif.
 
-Ce petit post revient rapidement sur les conditions de la passation, à partir des données collectées dans les "Fiches d'observation".
+Ce petit post revient rapidement sur les conditions de la passation, à partir des données collectées dans les "Fiches d'observation". C'est aussi l'occasion de remercier les étudiant·es enquêteur·rices pour leur mobilisation au cours de ces trois jours, les enseignant·es qui avec patience ont accepté d'interrompre leur enseignement, les étudiant·es qui ont bien voulu répondre, Stéphane Lavoipierre et Leïla Fardeau qui ont aussi assuré les permanences (et permis une numérisation rapide des fiches d'observation de la passation), le service de reprographie qui a été extrêmement réactif, et les différentes instances qui ont accepté cet exercice.
 
 # Le rythme de la passation
 
+Au total, \*\*\*\* questionnaires remplis ont été collectés. Le rythme de la passation a été soutenu...
+
 # Une durée de passation dans les cordes
+
+L'objectif de cette année était clairement de ne pas avoir un questionnaire trop long, pour limiter les abandons de passation, et pour respecter notre promesse d'une passation d'une "quinzaine de minutes".
 
 # Les refus de passation
 
+Toutes les salles tirées au sort n'ont pas été enquêtées : certaines étaient vides au cours du créneau de trois heures, parfois les étudiant·es dans la salle avaient déjà répondu au questionnaire dans un créneau précédent et dans d'autres cas les enquêteur·rices n'ont pas pu accéder à la salle de cours et faire passer le questionnaire. Les enquêteur·rices ont fait remonter \*\* "refus" de passation du questionnaire (soit \*\* % des salles non vides enquêtées).
+
+Les raisons de ces refus de passation qui ont été remontées sont principalement liées à une évaluation en cours, à la réalisation d'exposés difficiles à interrompres, à un cours dense dans un programme "en retard".
+
 # Les groupes d'enquêteur·rices
 
+Parmi les enquêteur·rices
+
 # Sur quelques remarques au cours de la passation
+
+mmmm
+
+# Un mot sur la suite
+
+À la suite de cette passation, les étudiant·es vont numériser les questionnaires à l'aide d'un masque de saisie. Les données sont analysées au cours du second semestre pour produire des "4-pages" synthétiques et une restitution collective est prévue. À suivre !
