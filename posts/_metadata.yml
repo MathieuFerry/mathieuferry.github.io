@@ -7,6 +7,6 @@ freeze: auto
 title-block-banner: true
 
 #comments
-comments:
-  giscus:
-    repo: MathieuFerry/mathieuferry.github.io/posts
+comments: 
+  utterances: 
+    repo:  MathieuFerry/blogComments 

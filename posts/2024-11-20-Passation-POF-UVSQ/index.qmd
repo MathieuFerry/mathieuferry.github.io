@@ -13,7 +13,7 @@ image: Photo1.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-Au cours de la semaine du 18 au 22 novembre 2024, les étudiant·es de L2 de sociologie de 10 établissements membres du Collectif POF ont assuré la passation d'une enquête par questionnaire, dont le thème est cette année "L'engagement étudiant".
+Au cours de la semaine du 18 au 22 novembre 2024, les étudiant·es de L2 de sociologie de 10 établissements membres du [Collectif POF](https://sites.google.com/view/collectifpof/accueil) ont assuré la passation d'une enquête par questionnaire, dont le thème est cette année "L'engagement étudiant".
 
 À l'UVSQ, la passation a eu lieu sur trois jours (lundi, mardi, mercredi) et a été limitée au campus de Guyancourt dans les bâtiments Vauban et D'Alembert[^1]. Une soixantaine d'étudiant·es ont été enquêteur·rices à tour de rôle pendant des créneaux de trois heures et ont enquêté une sélection de salles tirées au sort pour construire un échantillon d'étudiant·es répondant·es représentatif.
 
