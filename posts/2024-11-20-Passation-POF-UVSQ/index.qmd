@@ -1,6 +1,6 @@
 ---
 title: "POF à l'UVSQ, édition 2024"
-description: "Un (bref) retour sur la passation de l'enquête par questionnaire POF à l'UVSQ"
+description: "Un (bref) retour sur la passation de l'enquête par questionnaire"
 author:
   - name: Mathieu Ferry
     url: https://mathieuferry.github.io/fr/
@@ -15,11 +15,13 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 Au cours de la semaine du 18 au 22 novembre 2024, les étudiant·es de L2 de sociologie de 10 établissements membres du Collectif POF ont assuré la passation d'une enquête par questionnaire, dont le thème est cette année "L'engagement étudiant".
 
-À l'UVSQ, la passation a eu lieu sur trois jours (lundi, mardi, mercredi) et a été limitée au campus de Guyancourt dans les bâtiments Vauban et D'Alembert (l'UVSQ est étalée sur un territoire géographique relativement vaste que nous n'avons pas eu la prétention de couvrir, dans le souci de préserver les forces vives étudiantes, et parce que nous sommes encore des "bébés" au sein du collectif d'enquête national, pour n'y être que depuis la deuxième année !). Une soixantaine d'étudiant·es ont été enquêteur·rices à tour de rôle pendant des créneaux de trois heures et ont enquêté une sélection de salles tirées au sort pour construire un échantillon d'étudiant·es répondant·es représentatif.
+À l'UVSQ, la passation a eu lieu sur trois jours (lundi, mardi, mercredi) et a été limitée au campus de Guyancourt dans les bâtiments Vauban et D'Alembert[^1]. Une soixantaine d'étudiant·es ont été enquêteur·rices à tour de rôle pendant des créneaux de trois heures et ont enquêté une sélection de salles tirées au sort pour construire un échantillon d'étudiant·es répondant·es représentatif.
 
-Ce petit post revient rapidement sur les conditions de la passation, à partir des données collectées dans les "Fiches d'observation". C'est aussi l'occasion de remercier les étudiant·es enquêteur·rices pour leur mobilisation au cours de ces trois jours, les enseignant·es qui avec patience ont accepté d'interrompre leur enseignement, les étudiant·es qui ont bien voulu répondre, Stéphane Lavoipierre et Leïla Fardeau qui ont aussi assuré les permanences (et permis une numérisation rapide des fiches d'observation de la passation), le service de reprographie qui a été extrêmement réactif, et les différentes instances qui ont accepté cet exercice.
+[^1]: L'UVSQ est étalée sur un territoire géographique relativement vaste que nous n'avons pas eu la prétention de couvrir, dans le souci de préserver les forces vives étudiantes, et parce que nous sommes encore des "bébés" au sein du collectif d'enquête national, pour n'y être que depuis la deuxième année !
 
-# Le rythme de la passation
+Ce petit post revient rapidement sur les conditions de la passation, à partir des données collectées dans les "Fiches d'observation". C'est aussi l'occasion de remercier les étudiant·es enquêteur·rices pour leur mobilisation au cours de ces trois jours, les enseignant·es qui avec patience ont accepté d'interrompre leur enseignement, les étudiant·es qui ont bien voulu répondre, Stéphane Lavoipierre et Leïla Fardeau qui ont aussi assuré les permanences (et permis une numérisation rapide des fiches d'observation de la passation), nos collègues Camille Peugny, Christine Hamelin et Axelle Peltier qui nous ont transmis les ressources pédagogiques nécessaires pour la réussite de ce cours cette année, le service de reprographie qui a été extrêmement réactif, et les différentes instances qui ont accepté cet exercice.
+
+# 1398 questionnaires collectés
 
 Au total, 1398 questionnaires remplis ont été collectés. Ce nombre élevé (l'année dernière 1210 questionnaires numérisés ont été analysés à l'échelle de l'UVSQ) semble indiquer l'intérêt de réduire le nombre de jours de passation si on se restreint au seul campus Vauban-D'Alembert de Guyancourt.
 
@@ -27,7 +29,7 @@ Le rythme de la passation a été soutenu : en moyenne, 155 questionnaires par c
 
 ![Nombre de questionnaires collectés par créneau jour-heure](Fig_NbQuest.tiff.png){fig-alt="Un pic ressort sur le créneau mardi 12h-12h et un creux le même jour entre 15h et 18h." fig-align="center"}
 
-# Une durée de passation dans les cordes
+# Une durée de passation raisonnable
 
 L'objectif de cette année était clairement de ne pas avoir un questionnaire trop long, pour limiter les abandons de passation, et pour respecter notre promesse d'une passation d'une "quinzaine de minutes". Avec une durée moyenne observée d'environ 19 minutes (comprenant l'entrée dans la salle, la négociation, les explications, la distribution des questionnaires, la passation, la collecte), nous restons un peu au-dessus de notre objectif, pour limiter au mieux le temps pris sur le cours des étudiant·es et des enseignant·es.
 
@@ -35,21 +37,21 @@ Mais cette durée moyenne masque en réalité deux passations particulièrement 
 
 -   Une passation a duré en tout 1h31, mais les enquêteur·rices ne sont pas resté·es de bout en bout dans la salle : l'enseignante a demandé aux enquêteur·rices de venir récupérer les questionnaires remplis à la fin du cours, et on peut donc penser que cette passation n'a pas perturbé le cours outre mesure.
 
--   Une autre passation a duré en tout 50 minutes, mais les enquêteur·rices ont retrouvé un ancien enseignant du département de sociologie qui a souhaité mobiliser ce moment de passation pour nourrir sa séance, et là encore, la passation n'a pas perturbé le cours, au contraire.
+-   Une autre passation a duré en tout 50 minutes, mais les enquêteur·rices ont retrouvé un de leur enseignant du département de sociologie qui a souhaité mobiliser ce moment de passation pour nourrir sa séance, et là encore, la passation n'a pas perturbé le cours, au contraire.
 
 Si on exclut ces deux passations, la durée moyenne de la passation n'est plus que de 17 minutes (médiane à 17 minutes également) et on se rapproche d'une durée tout à fait raisonnable.
 
-Parmi les passations un peu plus longues, on note dans certains cas l'absence d'enseignant (les enquêteur·rices avaient pour consigne de passer le questionnaire s'il n'y avait pas de cours mais des étudiant·es présent·es dans la salle, cela s'est produit dans deux cas) et la présence d'étudiant·es en échange moins familiers de la scène politique nationale, et pour lesquels la traduction partielle a parfois été nécessaire.
+Parmi les passations un peu plus longues, on note dans certains cas l'absence d'enseignant (les enquêteur·rices avaient pour consigne de passer le questionnaire s'il n'y avait pas de cours mais des étudiant·es présent·es dans la salle, cela s'est produit dans deux cas) et la présence d'étudiant·es en échange moins familier·es de la scène politique nationale, et pour lesquel·les la traduction partielle a parfois été nécessaire.
 
-# Les refus de passation
+# Salles vides, étudiant·es déjà interrogé·es et refus
 
 Toutes les salles tirées au sort n'ont pas été enquêtées : certaines étaient vides au cours du créneau de trois heures, parfois les étudiant·es dans la salle avaient déjà répondu au questionnaire dans un créneau précédent et dans d'autres cas les enquêteur·rices n'ont pas pu accéder à la salle de cours et faire passer le questionnaire. Les enseignant·es étaient simplement "invités" à laisser les enquêteur·rices effectuer la passation de l'enquête, mais cela n'avait rien d'obligatoire.
 
-Sur 132 salles enquêtées (sur un tirage au sort nous amenant théoriquement à enquêter au total 135 salles, quelques fiches se sont égarées en chemin, on peut penser qu'il s'agissait de salles vides, les enquêteur·rices ont eu le temps de passer dans toutes les salles), 29 salles n'étaient occupées par aucun cours sur le créneau où elles avaient été sélectionnées. Le mercredi midi est un créneau où les salles sont particulièrement vides... (2 salles sans cours mais avec des étudiant·es ont tout de même fait l'objet d'une passation).
+Sur 132 salles enquêtées (sur un tirage au sort nous amenant théoriquement à enquêter au total 135 salles, quelques fiches se sont égarées en chemin, on peut penser qu'il s'agissait de salles vides, les enquêteur·rices ont eu le temps de passer dans toutes les salles), 29 salles n'étaient occupées par aucun cours sur le créneau où elles avaient été sélectionnées (2 salles sans cours mais avec des étudiant·es ont tout de même fait l'objet d'une passation). Le mercredi midi est un moment où les salles sont particulièrement vides...
 
-Dans les 103 salles enquêtées occupées par un cours, 72 ont pu faire l'objet d'une passation du questionnaire, soit un taux de réponse de 69 %. Ce taux de réponse montre bien que dans la grande majorité des cas, les enseignant·es ont "joué le jeu".
+Dans les 103 salles enquêtées occupées par un cours, 72 ont pu faire l'objet d'une passation du questionnaire, soit un taux de réponse de 69 %. Ce taux de réponse montre bien que dans la grande majorité des cas, les enseignant·es (et les étudiant·es !) ont "joué le jeu".
 
-Parmi les 31 salles avec cours non enquêtées, 11 correspondent à des salles où les étudiant·es ont déjà été enquêté·es dans un créneau précédent et 20 salles non enquêtées correspondent à des refus de l'enseignant·e. Les raisons de ces refus de passation qui ont été remontées sont principalement liées à une évaluation en cours, à la réalisation d'exposés difficiles à interrompres, à un cours dense dans un programme "en retard". Quelques enseignant·es déclarent ne pas avoir été prévenus de la passation de l'enquête, malgré l'affichage réalisé par l'équipe enseignante dans la semaine précédente et les emails envoyés aux directions des UFRs.
+Parmi les 31 salles avec cours non enquêtées, 11 correspondent à des salles où les étudiant·es ont déjà été enquêté·es dans un créneau précédent et 20 salles non enquêtées correspondent à des refus de l'enseignant·e. Les raisons de ces refus de passation qui ont été remontées sont principalement liées à une évaluation en cours, à la réalisation d'exposés difficiles à interrompre, à un cours dense dans un programme "en retard". Quelques enseignant·es déclarent ne pas avoir été prévenus de la passation de l'enquête, malgré l'affichage réalisé par l'équipe enseignante dans la semaine précédente et les emails envoyés aux directions des UFRs.
 
 ![Affiches dans le bâtiment d'Alembert](Photo1.jpg){fig-alt="Quatre affiches de l'enquête POF 2024"}
 

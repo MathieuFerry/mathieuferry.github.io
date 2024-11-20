@@ -1,3 +1,6 @@
+Blog: 
+https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/#V-additional-features
+
 Pour publier
 https://quarto.org/docs/output-formats/html-publishing.html
 https://quarto.org/docs/publishing/github-pages.html
@@ -31,6 +34,6 @@ git push -u origin main
 quarto render --profile english
 quarto render --profile french
 git add .
-git commit -m "Update20/11/2024"
+git commit -m "Update20/11/2024c"
 git branch -M main
 git push -u origin main

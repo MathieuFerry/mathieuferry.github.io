@@ -5,3 +5,8 @@ freeze: auto
 
 # enable banner style title blocks ----
 title-block-banner: true
+
+#comments
+comments:
+  giscus:
+    repo: MathieuFerry/mathieuferry.github.io/posts
