@@ -8,14 +8,14 @@ date: 11-20-2024
 categories: [POF, UVSQ, cours] # self-defined categories
 citation: 
   url: https://mathieuferry.github.io/fr/posts/2024-11-20-Passation-POF-UVSQ/ 
-appendix-cite-as: display
-image: preview-image.png
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+#appendix-cite-as: display
+image: Photo1.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 Au cours de la semaine du 18 au 22 novembre 2024, les étudiant·es de L2 de sociologie de 10 établissements membres du Collectif POF ont assuré la passation d'une enquête par questionnaire, dont le thème est cette année "L'engagement étudiant".
 
-À l'UVSQ, la passation a eu lieu sur trois jours (lundi, mardi, mercredi) et a été limitée au campus de Guyancourt dans les bâtiments Vauban et D'Alembert\^\[L'UVSQ est étalée sur un territoire géographique relativement vaste que nous n'avons pas eu la prétention de couvrir, dans le souci de préserver les forces vives étudiantes, et parce que nous sommes encore des "bébés" au sein du collectif d'enquête national, pour n'y être que depuis la deuxième année !\]. \*\* étudiant·es ont été enquêteur·rices à tour de rôle pendant des créneaux de trois heures et ont enquêté une sélection de salles tirées au sort pour construire un échantillon d'étudiant·es répondant·es représentatif.
+À l'UVSQ, la passation a eu lieu sur trois jours (lundi, mardi, mercredi) et a été limitée au campus de Guyancourt dans les bâtiments Vauban et D'Alembert (l'UVSQ est étalée sur un territoire géographique relativement vaste que nous n'avons pas eu la prétention de couvrir, dans le souci de préserver les forces vives étudiantes, et parce que nous sommes encore des "bébés" au sein du collectif d'enquête national, pour n'y être que depuis la deuxième année !). Une soixantaine d'étudiant·es ont été enquêteur·rices à tour de rôle pendant des créneaux de trois heures et ont enquêté une sélection de salles tirées au sort pour construire un échantillon d'étudiant·es répondant·es représentatif.
 
 Ce petit post revient rapidement sur les conditions de la passation, à partir des données collectées dans les "Fiches d'observation". C'est aussi l'occasion de remercier les étudiant·es enquêteur·rices pour leur mobilisation au cours de ces trois jours, les enseignant·es qui avec patience ont accepté d'interrompre leur enseignement, les étudiant·es qui ont bien voulu répondre, Stéphane Lavoipierre et Leïla Fardeau qui ont aussi assuré les permanences (et permis une numérisation rapide des fiches d'observation de la passation), le service de reprographie qui a été extrêmement réactif, et les différentes instances qui ont accepté cet exercice.
 
