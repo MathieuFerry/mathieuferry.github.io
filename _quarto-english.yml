@@ -31,7 +31,7 @@ format:
   html:
     theme: united
     mainfont: arial
-    fontsize: 1rem
+    fontsize: 1.2rem
     linkcolor: "#A3133D"
     css: styles.css
     toc: true

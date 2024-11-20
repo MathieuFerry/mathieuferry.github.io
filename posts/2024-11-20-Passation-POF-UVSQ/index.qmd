@@ -8,7 +8,7 @@ date: 11-20-2024
 categories: [POF, UVSQ, cours] # self-defined categories
 citation: 
   url: https://mathieuferry.github.io/fr/posts/2024-11-20-Passation-POF-UVSQ/ 
-#appendix-cite-as: display
+appendix-cite-as: false
 image: Photo1.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
@@ -23,7 +23,7 @@ Ce petit post revient rapidement sur les conditions de la passation, à partir d
 
 Au total, 1398 questionnaires remplis ont été collectés. Ce nombre élevé (l'année dernière 1210 questionnaires numérisés ont été analysés à l'échelle de l'UVSQ) semble indiquer l'intérêt de réduire le nombre de jours de passation si on se restreint au seul campus Vauban-D'Alembert de Guyancourt.
 
-Le rythme de la passation a été soutenu : en moyenne, 155 questionnaires par créneau jour-heure ont été collectés. Le créneau du mardi 12h-15h a été particulièrement couronné de succès avec 256 questionnaires collectés. Ce nombre élevé s'explique par le nombre particulièrement important d'amphis tirés au sort sur ce créneau (4). Le lundi et le mardi, on observe un petit effet "fin de journée" avec moins de questionnaires collectés sur le dernier créneau, mais pas le mercredi.
+Le rythme de la passation a été soutenu : en moyenne, 155 questionnaires par créneau jour-heure ont été collectés. Le créneau du mardi 12h-15h a été particulièrement couronné de succès avec 256 questionnaires collectés. Ce nombre élevé s'explique par le nombre plus important d'amphis tirés au sort sur ce créneau (4). Le lundi et le mardi, on observe un petit effet "fin de journée" avec moins de questionnaires collectés sur le dernier créneau, mais pas le mercredi.
 
 ![Nombre de questionnaires collectés par créneau jour-heure](Fig_NbQuest.tiff.png){fig-alt="Un pic ressort sur le créneau mardi 12h-12h et un creux le même jour entre 15h et 18h." fig-align="center"}
 
