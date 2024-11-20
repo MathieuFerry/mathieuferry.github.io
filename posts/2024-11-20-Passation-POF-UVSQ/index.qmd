@@ -62,3 +62,5 @@ Insrit·es à environ 7 ou 8 étudiant·es par créneau de passation, les enquê
 # Un mot sur la suite
 
 À la suite de cette passation, les étudiant·es vont numériser les questionnaires à l'aide d'un masque de saisie. Les données sont analysées au cours du second semestre pour produire des "4-pages" synthétiques et une restitution collective est prévue. À suivre !
+
+![Rangement et numérisation des fiches d'observation au Laboratoire Printemps](Photo2.jpg){fig-alt="Piles de questionnaires et écran d'ordinateur"}
