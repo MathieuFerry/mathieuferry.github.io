@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
+    "section": "",
+    "text": "Depuis septembre 2023 - Maître de conférences à l’Université Versailles Saint-Quentin (UVSQ) et chercheur au Printemps.\n2021-2023 - Chercheur postdoctoral à l’Ined (Institut national d’études démographiques).\n2020-2021 - ATER à l’Université Paris 8 Vincennes Saint-Denis."
+  },
+  {
+    "objectID": "cv/index.html#parcours-professionnel",
+    "href": "cv/index.html#parcours-professionnel",
+    "title": "CV",
+    "section": "",
+    "text": "Depuis septembre 2023 - Maître de conférences à l’Université Versailles Saint-Quentin (UVSQ) et chercheur au Printemps.\n2021-2023 - Chercheur postdoctoral à l’Ined (Institut national d’études démographiques).\n2020-2021 - ATER à l’Université Paris 8 Vincennes Saint-Denis."
+  },
+  {
+    "objectID": "cv/index.html#formation",
+    "href": "cv/index.html#formation",
+    "title": "CV",
+    "section": "Formation",
+    "text": "Formation\n2021 - Doctorat en sociologie, Sciences Po Paris (Observatoire Sociologique du Changement): What goes around meat eating, comes around: Vegetarianism as a status marker in comtemporary India. Directeurs de thèse : Philippe Coulangeon & Christophe Jaffrelot.\n2015-2017 - Master de “Sociologie Quantitative et Démographie”, Université Paris-Saclay.\nPour en savoir plus :"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Enseignements ",
+    "section": "",
+    "text": "Dans le cadre des enseignements de méthodes quantitatives pour les sciences sociales, j’ai commencé à rassembler ici quelques supports de cours.\n\n\nLe cours d’Analyse des données s’adresse à des étudiants de L3 “Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales” (MIASHS) et constitue également un électif pour les étudiants de L3 en sociologie. Il propose une introduction à l’Analyse Géométrique des Données : le cours magistral articule présentation des méthodes et illustrations en sciences sociales, et les travaux dirigés sont consacrés à l’application des méthodes sur des jeux de données réelles à l’aide du logiciel R.\nOn pourra retrouver quelques corrigés des travaux dirigés ici.\n\n\n\nJe participe à la Winter School de Pondicherry en novembre 2023, en co-animant le workshop “Computational and mixed methods”. Je présente la méthode d’analyse textuelle développée par Max Reinert, maintenant disponible dans R grâce au package R “rainette” dévelopé par Julien Barnier. J’illustre cette d’exploration textuelle à partir de données issues d’une aspiration d’annonces matrimoniales d’un site internet indien.\nLes tutoriels du workshop sont à retrouver ici."
+  },
+  {
+    "objectID": "teaching/index.html#analyse-des-données",
+    "href": "teaching/index.html#analyse-des-données",
+    "title": "Enseignements ",
+    "section": "",
+    "text": "Le cours d’Analyse des données s’adresse à des étudiants de L3 “Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales” (MIASHS) et constitue également un électif pour les étudiants de L3 en sociologie. Il propose une introduction à l’Analyse Géométrique des Données : le cours magistral articule présentation des méthodes et illustrations en sciences sociales, et les travaux dirigés sont consacrés à l’application des méthodes sur des jeux de données réelles à l’aide du logiciel R.\nOn pourra retrouver quelques corrigés des travaux dirigés ici."
+  },
+  {
+    "objectID": "teaching/index.html#séminaire-danalyse-textuelle",
+    "href": "teaching/index.html#séminaire-danalyse-textuelle",
+    "title": "Enseignements ",
+    "section": "",
+    "text": "Je participe à la Winter School de Pondicherry en novembre 2023, en co-animant le workshop “Computational and mixed methods”. Je présente la méthode d’analyse textuelle développée par Max Reinert, maintenant disponible dans R grâce au package R “rainette” dévelopé par Julien Barnier. J’illustre cette d’exploration textuelle à partir de données issues d’une aspiration d’annonces matrimoniales d’un site internet indien.\nLes tutoriels du workshop sont à retrouver ici."
+  },
+  {
+    "objectID": "publications/reviews/index.html",
+    "href": "publications/reviews/index.html",
+    "title": "Mathieu Ferry",
+    "section": "",
+    "text": "Compte-rendu de Uneven Odds: Social Mobility in Contemporary India (Oxford University Press India) de Divya Vaid, publié dans South Asia Multidisciplinary Academic Journal (2018).\nSite web\n\nCompte-rendu de La Chair, les hommes et les dieux : La Viande en Inde (CNRS Éditions) de Michaël Bruckert, intitulé 'Au pays des végétariens', La Vie des Idées (2018).\nSite web\n\nCompte-rendu de Contested Tastes : Foie Gras and the Politics of Food (Princeton UP) de Michaela DeSoucey, intitulé 'Le foie gras sous la mitraille', La Vie des Idées (2017).\nWebsite"
+  },
+  {
+    "objectID": "publications/nonpeerred-papers/index.html",
+    "href": "publications/nonpeerred-papers/index.html",
+    "title": "Mathieu Ferry",
+    "section": "",
+    "text": "Al Dahdah, M., Ferry, M., Guérin, I., & Venkatasubramanian, G. (2020). L’Inde face à la crise du Covid-19. La Vie des idées.\n Site web\n\nFerry M. (2019). En Inde, des attaques contre les minorités au nom de la vache sacrée. Bulletin de l’Observatoire international du religieux, 31.\n Site web\n\nFerry, M. (2017). Le terrorisme de la vache. La Vie des idées.\n Site web"
+  },
+  {
+    "objectID": "publications/articles/index.html",
+    "href": "publications/articles/index.html",
+    "title": "Mathieu Ferry",
+    "section": "",
+    "text": "Ferry M. (2024). Le gastro-nationalisme de la vache en Inde. L’instrumentalisation d’un symbole religieux dans le renforcement du sentiment national hindou et la stigmatisation des musulmans, Critique internationale, 103 (2), 11‑-38.  DOI\n\nFerry, M. (2022). Where Does Ascribed Privilege Get You in? Structural and Net Effects of Caste and Religious Belonging in India. Sociology, 56(6), 1176–1199.\n Prépublication  Revue\n\nFerry, M. (2020). What’s India’s Beef with Meat? Hindu Orthopraxis and Food Transition in India Since the 1980. Sociological Forum, 35(2), 511–534.\n PDF  Revue\n\nNaudet, J., Allorant, A., & Ferry, M. (2018). Heirs, corporate aristocrats and ‘Meritocrats’: the social space of top CEOs and Chairmen in India. Socio-Economic Review, 16(2), 307–339.\n PDF  Revue  Version française (Entreprises et Histoire)\n\nFerry, M., Naudet, J., & Roueff, O. (2018). Seeking the Indian social space. A multidimensional portrait of the stratifications of Indian society. South Asia Multidisciplinary Academic Journal.\n PDF  Revue\n\nHenry, O., & Ferry, M. (2017). When Cracking the JEE is not Enough. South Asia Multidisciplinary Academic Journal, 15.\n PDF  Revue"
+  },
+  {
+    "objectID": "posts/2024-11-20-Passation-POF-UVSQ/index.html",
+    "href": "posts/2024-11-20-Passation-POF-UVSQ/index.html",
+    "title": "POF à l’UVSQ, édition 2024",
+    "section": "",
+    "text": "Au cours de la semaine du 18 au 22 novembre 2024, les étudiant·es de L2 de sociologie de 10 établissements membres du Collectif POF ont assuré la passation d’une enquête par questionnaire, dont le thème est cette année “L’engagement étudiant”.\nÀ l’UVSQ, la passation a eu lieu sur trois jours (lundi, mardi, mercredi) et a été limitée au campus de Guyancourt dans les bâtiments Vauban et D’Alembert1. Une soixantaine d’étudiant·es ont été enquêteur·rices à tour de rôle pendant des créneaux de trois heures et ont enquêté une sélection de salles tirées au sort pour construire un échantillon d’étudiant·es répondant·es représentatif.\nCe petit post revient rapidement sur les conditions de la passation, à partir des données collectées dans les “Fiches d’observation”. C’est aussi l’occasion de remercier les étudiant·es enquêteur·rices pour leur mobilisation au cours de ces trois jours, les enseignant·es qui avec patience ont accepté d’interrompre leur enseignement, les étudiant·es qui ont bien voulu répondre, Stéphane Lavoipierre et Leïla Fardeau qui ont aussi assuré les permanences (et permis une numérisation rapide des fiches d’observation de la passation), nos collègues Camille Peugny, Christine Hamelin et Axelle Peltier qui nous ont transmis les ressources pédagogiques nécessaires pour la réussite de ce cours cette année, le service de reprographie qui a été extrêmement réactif, et les différentes instances qui ont accepté cet exercice."
+  },
+  {
+    "objectID": "posts/2024-11-20-Passation-POF-UVSQ/index.html#footnotes",
+    "href": "posts/2024-11-20-Passation-POF-UVSQ/index.html#footnotes",
+    "title": "POF à l’UVSQ, édition 2024",
+    "section": "Notes de bas de page",
+    "text": "Notes de bas de page\n\n\nL’UVSQ est étalée sur un territoire géographique relativement vaste que nous n’avons pas eu la prétention de couvrir, dans le souci de préserver les forces vives étudiantes, et parce que nous sommes encore des “bébés” au sein du collectif d’enquête national, pour n’y être que depuis la deuxième année !↩︎\nOn note une légère surreprésentation des enseignants hommes parmi les refus de passation. En effet, 8 refus sont 19 (42%) sont le fait d’enseignants hommes alors qu’ils représentent un tiers des enseignant·es dans les salles.↩︎"
+  },
+  {
+    "objectID": "publications/chapters/index.html",
+    "href": "publications/chapters/index.html",
+    "title": "Mathieu Ferry",
+    "section": "",
+    "text": "Ferry, M., & Ichou, M. (2024). The role of migration for intergenerational mobility. In E. Kilpi-Jakonen, J. Blanden, J. Erola, & L. Macmillan (Eds.), Research Handbook on Intergenerational Inequality (pp. 249–263). Edward Elgar Publishing.\n Prépublication Site de l’éditeur\n\nFerry, M., 2023. Vegetarianism and Non-Vegetarian Consumption in India, in: Guilmoto, C.Z. (Ed.), Atlas of Gender and Health Inequalities in India, Demographic Transformation and Socio-Economic Development. Springer Nature Switzerland, Cham, pp. 29–39.\n Carte principale Site de l’éditeur\n\nFerry, M. (2023). Social Honour. In S. S. Jodhka & B. Rehbein (Eds.), Global Handbook of Inequality. Cham: Springer International Publishing (living reference work entry).\n Prépublication Site de l’éditeur\n\nBruckert, M., & Ferry, M. (2023). Changing Food Habits in Contemporary India: Discourses and Practices among the Middle Classes. In K. A. Jacobsen (Ed.), Routledge Handbook of Contemporary India (2nd ed.). Routledge.\n Prépublication Site de l’éditeur\n\nHenry, O., & Ferry, M. (2022). Assignation statutaire et valeur sociale des diplômes Le devenir scolaire et professionnel des élèves ­d’un Institut indien de technologie au prisme des catégories de réservation. In C. Gadéa & R. Lardinois (Eds.), Les Mondes de l’ingénieur en Inde (xixe-xxie siècle) (Vol. 24, pp. 147–171). Paris: Classiques Garnier.\n Prépublication Site de l’éditeur\n\nAl Dahdah, M., Ferry, M., Guérin, I., & Venkatasubramanian, G. (2021). India in COVID-19: A Tragedy Foretold. In T. J. Sugrue & C. Zaloom (Eds.), The long year: a 2020 reader. New York: Columbia University Press.\nChapitre sur JSTOR\nNote: ce chapitre est une version éditée d’un essai publié sur La Vie des Idées (initialement publié en anglais dans Books&Ideas).\n\nNaudet, J., Allorant, A., & Ferry, M. (2019). Heirs, Corporate Aristocrats, and ‘Meritocrats’: The Social Space of Top CEOs and Chairpersons in India. In S. S. Jodhka & J. Naudet (Eds.), Mapping the Elite: Power, Privilege, and Inequality (pp. 70–114). Oxford University Press.\nSite de l’éditeur\nNote: ce chapitre est une version légèrement remaniée d’un article publié dans la Socio-Economic Review (disponible ici en PDF)."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications ",
+    "section": "",
+    "text": "Toutes les publications sont disponibles en “open access” ou sous la forme de prépublication. Si toutefois l’une des références manquait, ne pas hésiter à me contacter.\n\n\nFerry M. (2024). Le gastro-nationalisme de la vache en Inde. L’instrumentalisation d’un symbole religieux dans le renforcement du sentiment national hindou et la stigmatisation des musulmans, Critique internationale, 103 (2), 11‑-38.  DOI\n\nFerry, M. (2022). Where Does Ascribed Privilege Get You in? Structural and Net Effects of Caste and Religious Belonging in India. Sociology, 56(6), 1176–1199.\n Prépublication  Revue\n\nFerry, M. (2020). What’s India’s Beef with Meat? Hindu Orthopraxis and Food Transition in India Since the 1980. Sociological Forum, 35(2), 511–534.\n PDF  Revue\n\nNaudet, J., Allorant, A., & Ferry, M. (2018). Heirs, corporate aristocrats and ‘Meritocrats’: the social space of top CEOs and Chairmen in India. Socio-Economic Review, 16(2), 307–339.\n PDF  Revue  Version française (Entreprises et Histoire)\n\nFerry, M., Naudet, J., & Roueff, O. (2018). Seeking the Indian social space. A multidimensional portrait of the stratifications of Indian society. South Asia Multidisciplinary Academic Journal.\n PDF  Revue\n\nHenry, O., & Ferry, M. (2017). When Cracking the JEE is not Enough. South Asia Multidisciplinary Academic Journal, 15.\n PDF  Revue\n\n\n\nFerry, M., & Ichou, M. (2024). The role of migration for intergenerational mobility. In E. Kilpi-Jakonen, J. Blanden, J. Erola, & L. Macmillan (Eds.), Research Handbook on Intergenerational Inequality (pp. 249–263). Edward Elgar Publishing.\n Prépublication Site de l’éditeur\n\nFerry, M., 2023. Vegetarianism and Non-Vegetarian Consumption in India, in: Guilmoto, C.Z. (Ed.), Atlas of Gender and Health Inequalities in India, Demographic Transformation and Socio-Economic Development. Springer Nature Switzerland, Cham, pp. 29–39.\n Carte principale Site de l’éditeur\n\nFerry, M. (2023). Social Honour. In S. S. Jodhka & B. Rehbein (Eds.), Global Handbook of Inequality. Cham: Springer International Publishing (living reference work entry).\n Prépublication Site de l’éditeur\n\nBruckert, M., & Ferry, M. (2023). Changing Food Habits in Contemporary India: Discourses and Practices among the Middle Classes. In K. A. Jacobsen (Ed.), Routledge Handbook of Contemporary India (2nd ed.). Routledge.\n Prépublication Site de l’éditeur\n\nHenry, O., & Ferry, M. (2022). Assignation statutaire et valeur sociale des diplômes Le devenir scolaire et professionnel des élèves ­d’un Institut indien de technologie au prisme des catégories de réservation. In C. Gadéa & R. Lardinois (Eds.), Les Mondes de l’ingénieur en Inde (xixe-xxie siècle) (Vol. 24, pp. 147–171). Paris: Classiques Garnier.\n Prépublication Site de l’éditeur\n\nAl Dahdah, M., Ferry, M., Guérin, I., & Venkatasubramanian, G. (2021). India in COVID-19: A Tragedy Foretold. In T. J. Sugrue & C. Zaloom (Eds.), The long year: a 2020 reader. New York: Columbia University Press.\nChapitre sur JSTOR\nNote: ce chapitre est une version éditée d’un essai publié sur La Vie des Idées (initialement publié en anglais dans Books&Ideas).\n\nNaudet, J., Allorant, A., & Ferry, M. (2019). Heirs, Corporate Aristocrats, and ‘Meritocrats’: The Social Space of Top CEOs and Chairpersons in India. In S. S. Jodhka & J. Naudet (Eds.), Mapping the Elite: Power, Privilege, and Inequality (pp. 70–114). Oxford University Press.\nSite de l’éditeur\nNote: ce chapitre est une version légèrement remaniée d’un article publié dans la Socio-Economic Review (disponible ici en PDF).\n\n\n\nLavest C., Ferry M., Ichou M., Präg P., 2024. Who Do They Think You Are? Inconsistencies in Self-and Proxy-Reports of Education Within Families. SocArXiv Papers.\n Website\nLes trois documents de travail suivants rassemblent plusieurs analyses auxquelles j’ai contribué, en se basant sur l’enquête “Trajectoires & Origines 2” (TeO2) portant sur les immigrants et leurs descendants en France métropolitaine. Ils sont destinés à être publiés en tant que chapitres d’un ouvrage actuellement en cours de révision :\nFerry, M., Tanneau, P., Simon, P., 2023. De la mixité des ascendances à l’hybridation des généalogies. Documents de travail, n°288, Aubervilliers : Ined.\n Website\nFerry, M., Simon, P., 2023. Les rapports aux origines : des identités mouvantes confrontées aux assignations. Documents de travail, n°287, Aubervilliers : Ined.\n Website\nCaron, L., Ferry, M., Ichou, M., 2023. Diversité sociale des immigré·es et de leurs enfants : positions et mobilité intergénérationnelle. Documents de travail, n°282, Aubervilliers : Ined.\n Website\n\nWeber, R., Ferry, M., & Ichou, M. (2023). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France., Documents de travail Ined, 278.\n PDF  Site web\n\nFerry, M., & Subtil, J. (2023). Digitized Matchmaking. Marriage-making strategies of the New Middle Class through online matrimonial advertisements in India. CSH-IFP Working Papers, 19.\n PDF\n\nFerry, M. (2019). Les liens de la caste : Quantifier des identités sociales à l’aide de questions ouvertes. Sciences Po OSC Papers, 1.\n PDF  Site web\n\n\n\n\nAl Dahdah, M., Ferry, M., Guérin, I., & Venkatasubramanian, G. (2020). L’Inde face à la crise du Covid-19. La Vie des idées.\n Site web\n\nFerry M. (2019). En Inde, des attaques contre les minorités au nom de la vache sacrée. Bulletin de l’Observatoire international du religieux, 31.\n Site web\n\nFerry, M. (2017). Le terrorisme de la vache. La Vie des idées.\n Site web\n\n\n\nCompte-rendu de Uneven Odds: Social Mobility in Contemporary India (Oxford University Press India) de Divya Vaid, publié dans South Asia Multidisciplinary Academic Journal (2018).\nSite web\n\nCompte-rendu de La Chair, les hommes et les dieux : La Viande en Inde (CNRS Éditions) de Michaël Bruckert, intitulé 'Au pays des végétariens', La Vie des Idées (2018).\nSite web\n\nCompte-rendu de Contested Tastes : Foie Gras and the Politics of Food (Princeton UP) de Michaela DeSoucey, intitulé 'Le foie gras sous la mitraille', La Vie des Idées (2017).\nWebsite"
+  },
+  {
+    "objectID": "publications/index.html#articles-dans-des-revues-à-comité-de-lecture",
+    "href": "publications/index.html#articles-dans-des-revues-à-comité-de-lecture",
+    "title": "Publications ",
+    "section": "",
+    "text": "Ferry M. (2024). Le gastro-nationalisme de la vache en Inde. L’instrumentalisation d’un symbole religieux dans le renforcement du sentiment national hindou et la stigmatisation des musulmans, Critique internationale, 103 (2), 11‑-38.  DOI\n\nFerry, M. (2022). Where Does Ascribed Privilege Get You in? Structural and Net Effects of Caste and Religious Belonging in India. Sociology, 56(6), 1176–1199.\n Prépublication  Revue\n\nFerry, M. (2020). What’s India’s Beef with Meat? Hindu Orthopraxis and Food Transition in India Since the 1980. Sociological Forum, 35(2), 511–534.\n PDF  Revue\n\nNaudet, J., Allorant, A., & Ferry, M. (2018). Heirs, corporate aristocrats and ‘Meritocrats’: the social space of top CEOs and Chairmen in India. Socio-Economic Review, 16(2), 307–339.\n PDF  Revue  Version française (Entreprises et Histoire)\n\nFerry, M., Naudet, J., & Roueff, O. (2018). Seeking the Indian social space. A multidimensional portrait of the stratifications of Indian society. South Asia Multidisciplinary Academic Journal.\n PDF  Revue\n\nHenry, O., & Ferry, M. (2017). When Cracking the JEE is not Enough. South Asia Multidisciplinary Academic Journal, 15.\n PDF  Revue"
+  },
+  {
+    "objectID": "publications/index.html#chapitres-douvrages",
+    "href": "publications/index.html#chapitres-douvrages",
+    "title": "Publications ",
+    "section": "",
+    "text": "Ferry, M., & Ichou, M. (2024). The role of migration for intergenerational mobility. In E. Kilpi-Jakonen, J. Blanden, J. Erola, & L. Macmillan (Eds.), Research Handbook on Intergenerational Inequality (pp. 249–263). Edward Elgar Publishing.\n Prépublication Site de l’éditeur\n\nFerry, M., 2023. Vegetarianism and Non-Vegetarian Consumption in India, in: Guilmoto, C.Z. (Ed.), Atlas of Gender and Health Inequalities in India, Demographic Transformation and Socio-Economic Development. Springer Nature Switzerland, Cham, pp. 29–39.\n Carte principale Site de l’éditeur\n\nFerry, M. (2023). Social Honour. In S. S. Jodhka & B. Rehbein (Eds.), Global Handbook of Inequality. Cham: Springer International Publishing (living reference work entry).\n Prépublication Site de l’éditeur\n\nBruckert, M., & Ferry, M. (2023). Changing Food Habits in Contemporary India: Discourses and Practices among the Middle Classes. In K. A. Jacobsen (Ed.), Routledge Handbook of Contemporary India (2nd ed.). Routledge.\n Prépublication Site de l’éditeur\n\nHenry, O., & Ferry, M. (2022). Assignation statutaire et valeur sociale des diplômes Le devenir scolaire et professionnel des élèves ­d’un Institut indien de technologie au prisme des catégories de réservation. In C. Gadéa & R. Lardinois (Eds.), Les Mondes de l’ingénieur en Inde (xixe-xxie siècle) (Vol. 24, pp. 147–171). Paris: Classiques Garnier.\n Prépublication Site de l’éditeur\n\nAl Dahdah, M., Ferry, M., Guérin, I., & Venkatasubramanian, G. (2021). India in COVID-19: A Tragedy Foretold. In T. J. Sugrue & C. Zaloom (Eds.), The long year: a 2020 reader. New York: Columbia University Press.\nChapitre sur JSTOR\nNote: ce chapitre est une version éditée d’un essai publié sur La Vie des Idées (initialement publié en anglais dans Books&Ideas).\n\nNaudet, J., Allorant, A., & Ferry, M. (2019). Heirs, Corporate Aristocrats, and ‘Meritocrats’: The Social Space of Top CEOs and Chairpersons in India. In S. S. Jodhka & J. Naudet (Eds.), Mapping the Elite: Power, Privilege, and Inequality (pp. 70–114). Oxford University Press.\nSite de l’éditeur\nNote: ce chapitre est une version légèrement remaniée d’un article publié dans la Socio-Economic Review (disponible ici en PDF)."
+  },
+  {
+    "objectID": "publications/index.html#documents-de-travail",
+    "href": "publications/index.html#documents-de-travail",
+    "title": "Publications ",
+    "section": "",
+    "text": "Lavest C., Ferry M., Ichou M., Präg P., 2024. Who Do They Think You Are? Inconsistencies in Self-and Proxy-Reports of Education Within Families. SocArXiv Papers.\n Website\nLes trois documents de travail suivants rassemblent plusieurs analyses auxquelles j’ai contribué, en se basant sur l’enquête “Trajectoires & Origines 2” (TeO2) portant sur les immigrants et leurs descendants en France métropolitaine. Ils sont destinés à être publiés en tant que chapitres d’un ouvrage actuellement en cours de révision :\nFerry, M., Tanneau, P., Simon, P., 2023. De la mixité des ascendances à l’hybridation des généalogies. Documents de travail, n°288, Aubervilliers : Ined.\n Website\nFerry, M., Simon, P., 2023. Les rapports aux origines : des identités mouvantes confrontées aux assignations. Documents de travail, n°287, Aubervilliers : Ined.\n Website\nCaron, L., Ferry, M., Ichou, M., 2023. Diversité sociale des immigré·es et de leurs enfants : positions et mobilité intergénérationnelle. Documents de travail, n°282, Aubervilliers : Ined.\n Website\n\nWeber, R., Ferry, M., & Ichou, M. (2023). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France., Documents de travail Ined, 278.\n PDF  Site web\n\nFerry, M., & Subtil, J. (2023). Digitized Matchmaking. Marriage-making strategies of the New Middle Class through online matrimonial advertisements in India. CSH-IFP Working Papers, 19.\n PDF\n\nFerry, M. (2019). Les liens de la caste : Quantifier des identités sociales à l’aide de questions ouvertes. Sciences Po OSC Papers, 1.\n PDF  Site web"
+  },
+  {
+    "objectID": "publications/index.html#articles-dans-des-revues-sans-comité-de-lecture",
+    "href": "publications/index.html#articles-dans-des-revues-sans-comité-de-lecture",
+    "title": "Publications ",
+    "section": "",
+    "text": "Al Dahdah, M., Ferry, M., Guérin, I., & Venkatasubramanian, G. (2020). L’Inde face à la crise du Covid-19. La Vie des idées.\n Site web\n\nFerry M. (2019). En Inde, des attaques contre les minorités au nom de la vache sacrée. Bulletin de l’Observatoire international du religieux, 31.\n Site web\n\nFerry, M. (2017). Le terrorisme de la vache. La Vie des idées.\n Site web"
+  },
+  {
+    "objectID": "publications/index.html#comptes-rendus-douvrages",
+    "href": "publications/index.html#comptes-rendus-douvrages",
+    "title": "Publications ",
+    "section": "",
+    "text": "Compte-rendu de Uneven Odds: Social Mobility in Contemporary India (Oxford University Press India) de Divya Vaid, publié dans South Asia Multidisciplinary Academic Journal (2018).\nSite web\n\nCompte-rendu de La Chair, les hommes et les dieux : La Viande en Inde (CNRS Éditions) de Michaël Bruckert, intitulé 'Au pays des végétariens', La Vie des Idées (2018).\nSite web\n\nCompte-rendu de Contested Tastes : Foie Gras and the Politics of Food (Princeton UP) de Michaela DeSoucey, intitulé 'Le foie gras sous la mitraille', La Vie des Idées (2017).\nWebsite"
+  },
+  {
+    "objectID": "publications/working-papers/index.html",
+    "href": "publications/working-papers/index.html",
+    "title": "Mathieu Ferry",
+    "section": "",
+    "text": "Lavest C., Ferry M., Ichou M., Präg P., 2024. Who Do They Think You Are? Inconsistencies in Self-and Proxy-Reports of Education Within Families. SocArXiv Papers.\n Website\nLes trois documents de travail suivants rassemblent plusieurs analyses auxquelles j’ai contribué, en se basant sur l’enquête “Trajectoires & Origines 2” (TeO2) portant sur les immigrants et leurs descendants en France métropolitaine. Ils sont destinés à être publiés en tant que chapitres d’un ouvrage actuellement en cours de révision :\nFerry, M., Tanneau, P., Simon, P., 2023. De la mixité des ascendances à l’hybridation des généalogies. Documents de travail, n°288, Aubervilliers : Ined.\n Website\nFerry, M., Simon, P., 2023. Les rapports aux origines : des identités mouvantes confrontées aux assignations. Documents de travail, n°287, Aubervilliers : Ined.\n Website\nCaron, L., Ferry, M., Ichou, M., 2023. Diversité sociale des immigré·es et de leurs enfants : positions et mobilité intergénérationnelle. Documents de travail, n°282, Aubervilliers : Ined.\n Website\n\nWeber, R., Ferry, M., & Ichou, M. (2023). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France., Documents de travail Ined, 278.\n PDF  Site web\n\nFerry, M., & Subtil, J. (2023). Digitized Matchmaking. Marriage-making strategies of the New Middle Class through online matrimonial advertisements in India. CSH-IFP Working Papers, 19.\n PDF\n\nFerry, M. (2019). Les liens de la caste : Quantifier des identités sociales à l’aide de questions ouvertes. Sciences Po OSC Papers, 1.\n PDF  Site web"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mathieu Ferry",
+    "section": "",
+    "text": "Je suis Maître de conférences en sociologie à l’Université Versailles Saint-Quentin (UVSQ), et chercheur au Printemps.\nAuparavant, j’ai été chercheur postdoctoral à l’Institut national d’études démographiques (Ined).\nMes recherches portent sur l’étude de la stratification et de la mobilité sociale et les styles de vie.\nDans ma thèse de doctorat, j’ai étudié les dynamiques sociales de statut, d’intégration et de stigmatisation liées à l’alimentation, à la caste et à la religion dans l’Inde contemporaine.\nDans mes recherches actuelles, j’étudie comment la caste et la religion façonnent les trajectoires de classe dans un contexte d’inégalités économiques croissantes et d’expansion de l’éducation en Inde.\nAvec l’équipe 3GEN, j’étudie également les mécanismes de la mobilité sociale parmi les familles immigrées en France.\nSur le plan méthodologique, j’utilise une combinaison d’outils statistiques exploratoires (analyse géométrique des données), de modélisation statistique et d’entretiens. En ce qui concerne les données quantitatives, j’utilise principalement des enquêtes statistiques, y compris de grands ensembles de données harmonisées (IPUMS et DHS). Je m’intéresse également à l’utilisation des données récoltées sur le web pour les sciences sociales."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "POF à l’UVSQ, édition 2024\n\n\n\nPOF\n\n\nUVSQ\n\n\ncours\n\n\n\nUn (bref) retour sur la passation de l’enquête par questionnaire\n\n\n\nMathieu Ferry\n\n\n20 nov. 2024\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  }
+]
