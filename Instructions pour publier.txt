@@ -34,6 +34,6 @@ git push -u origin main
 quarto render --profile english
 quarto render --profile french
 git add .
-git commit -m "Update20/11/2024c"
+git commit -m "Update21/11/2024preprint"
 git branch -M main
 git push -u origin main

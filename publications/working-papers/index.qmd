@@ -4,6 +4,10 @@ page-layout: full
 ---
 
 ::: {.content-visible when-profile="english"}
+Lavest C., **Ferry M.**, Ichou M., Präg P., 2024. Who Do They Think You Are? Inconsistencies in Self-and Proxy-Reports of Education Within Families. *SocArXiv Papers*.
+
+[{{< iconify gg website >}} Website](https://osf.io/preprints/socarxiv/b2qsu)
+
 *The following three working papers compile several analyses to which I have contributed, drawing on the "Trajectoires & Origines 2" (TeO2) survey focused on immigrants and immigrants' descendants in metropolitan France. These papers are intended for publication as chapters in a book project that is presently under review:*
 
 **Ferry, M.**, Tanneau, P., Simon, P., 2023. De la mixité des ascendances à l’hybridation des généalogies. *Documents de travail*, n°288, Aubervilliers : Ined.
@@ -38,6 +42,10 @@ Weber, R., **Ferry, M.**, & Ichou, M. (2023). Which Degree for Which Occupation?
 :::
 
 ::: {.content-visible when-profile="french"}
+Lavest C., **Ferry M.**, Ichou M., Präg P., 2024. Who Do They Think You Are? Inconsistencies in Self-and Proxy-Reports of Education Within Families. *SocArXiv Papers*.
+
+[{{< iconify gg website >}} Website](https://osf.io/preprints/socarxiv/b2qsu)
+
 *Les trois documents de travail suivants rassemblent plusieurs analyses auxquelles j'ai contribué, en se basant sur l'enquête "Trajectoires & Origines 2" (TeO2) portant sur les immigrants et leurs descendants en France métropolitaine. Ils sont destinés à être publiés en tant que chapitres d'un ouvrage actuellement en cours de révision :*
 
 **Ferry, M.**, Tanneau, P., Simon, P., 2023. De la mixité des ascendances à l’hybridation des généalogies. *Documents de travail*, n°288, Aubervilliers : Ined.
