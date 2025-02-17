@@ -18,6 +18,9 @@ website:
       - icon: pencil
         href: posts.qmd
         text: Blog
+      - href: https://analytics.huma-num.fr/Mathieu.Ferry/
+        icon: menu-down
+        text: Shiny apps
     right:
       - href: ../fr
         text: Français
