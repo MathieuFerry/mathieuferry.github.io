@@ -15,6 +15,8 @@ page-layout: full
 [{{< iconify icons8 pdf >}} PDF (in French)](articles/ferry-2025/ferry-2025_vegetarisme.pdf) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1177/07591063251317058)
 :::
 
+------------------------------------------------------------------------
+
 Weber R., **Ferry, M.,** Ichou M. (2024). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France. *Demography*, 11670148.
 
 ::: {.content-visible when-profile="english"}
