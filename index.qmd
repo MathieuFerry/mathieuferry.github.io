@@ -33,7 +33,7 @@ format:
 ::: {.content-visible when-profile="english"}
 I am a sociologist and currently an Assistant Professor (Maître de conférences) at [Université Versailles Saint-Quentin](https://www.uvsq.fr/english) (UVSQ, a founding member of [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)), and a researcher at [Printemps](https://www.printemps.uvsq.fr/).
 
-I am also a Research Associate at [INED (French Institute for Demographic Studies)](https://www.ined.fr/en/), within the Research Unit ["International Migrations and Minorities"](https://www.ined.fr/en/research/research-teams/UR08).
+I am also a Research Associate at [INED (French Institute for Demographic Studies)](https://www.ined.fr/en/), within the Research Unit ["International Migrations and Minorities"](https://www.ined.fr/en/research/research-teams/UR08), and an Affiliated Researcher at [CESAH (Centre d’Études Sud-Asiatiques et Himalayennes)](https://cesah.ehess.fr/en).
 
 My research interests are in the study of social stratification, class and educational mobility, and lifestyle segmentation.
 
@@ -47,7 +47,7 @@ Methodologically, I use a combination of exploratory statistical tools (geometri
 ::: {.content-visible when-profile="french"}
 Je suis Maître de conférences en sociologie à l'[Université Versailles Saint-Quentin (UVSQ)](https://www.uvsq.fr/), et chercheur au [Printemps](https://www.printemps.uvsq.fr/).
 
-Je suis également chercheur associé à l'[Institut national d'études démographiques (Ined)](https://www.ined.fr/), au sein de l'Unité de recherche ["Migrations internationales et minorités"](https://www.ined.fr/fr/recherche/equipes-recherche/UR08).
+Je suis également chercheur associé à l'[Institut national d'études démographiques (Ined)](https://www.ined.fr/), au sein de l'Unité de recherche ["Migrations internationales et minorités"](https://www.ined.fr/fr/recherche/equipes-recherche/UR08), ainsi qu'au [CESAH (Centre d’Études Sud-Asiatiques et Himalayennes)](https://cesah.ehess.fr/).
 
 Mes recherches portent sur l'étude de la stratification et de la mobilité sociale et les styles de vie.
 
