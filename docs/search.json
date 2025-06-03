@@ -25,7 +25,7 @@
     "href": "teaching/index.html",
     "title": "Teaching ",
     "section": "",
-    "text": "In the course of teaching quantitative methods for the social sciences, I have started to compile some course materials here.\n\n\nThe Data Analysis course is designed for 3rd year undergraduate students in the “Mathematics for social sciences” and in the sociology tracks. It offers an introduction to Geometric Data Analysis: the lecture combines method presentations with real-world social science applications, and the tutorials focus on applying these methods to real datasets using the R software.\nYou will find some of the guided exercise solutions here.\n\n\n\nI am participating in the Pondicherry Social Science Winter School in November 2023, where I will co-host the “Computational and Mixed Methods” workshop. During the workshop, I will be presenting Max Reinert’s textual analysis method, which is now available in the “rainette” R package developed by Julien Barnier. This method will be applied to data collected from matrimonial advertisements on an Indian website.\nYou can access the tutorials for the workshop here."
+    "text": "In the course of teaching quantitative methods for the social sciences, I have started to compile some course materials here.\n\n\nThe Data Analysis course is designed for 3rd year undergraduate students in the “Mathematics for social sciences” and in the sociology tracks. It offers an introduction to Geometric Data Analysis: the lecture combines method presentations with real-world social science applications, and the tutorials focus on applying these methods to real datasets using the R software.\nYou will find some of the guided exercise solutions here.\n\n\n\nI participated in the Pondicherry Social Science Winter School in November 2023, where I co-hosted the “Computational and Mixed Methods” workshop. During the workshop, I presented Max Reinert’s textual analysis method, which is now available in the “rainette” R package developed by Julien Barnier. This method was applied to data collected from matrimonial advertisements on an Indian website.\nYou can access the tutorials for the workshop here.\n\n\n\nTo introduce text analysis in a “point-and-click” mode, one can use the Mendak application (here, or better, here).\nYou can access a (brief) tutorial in English here.\n\n\n\nI gathered the teaching material used for teaching R for social scientists for a workshop with PhD students from the Sociology and Political Science Graduate School of Université Paris-Saclay (June 2025). The tutorials cover univariate, bivariate, MCA, textual analysis and a few functions that render data management easier in R.\nYou can access the tutorials (in French) for the workshop here."
   },
   {
     "objectID": "teaching/index.html#data-analysis",
@@ -39,7 +39,21 @@
     "href": "teaching/index.html#textual-analysis",
     "title": "Teaching ",
     "section": "",
-    "text": "I am participating in the Pondicherry Social Science Winter School in November 2023, where I will co-host the “Computational and Mixed Methods” workshop. During the workshop, I will be presenting Max Reinert’s textual analysis method, which is now available in the “rainette” R package developed by Julien Barnier. This method will be applied to data collected from matrimonial advertisements on an Indian website.\nYou can access the tutorials for the workshop here."
+    "text": "I participated in the Pondicherry Social Science Winter School in November 2023, where I co-hosted the “Computational and Mixed Methods” workshop. During the workshop, I presented Max Reinert’s textual analysis method, which is now available in the “rainette” R package developed by Julien Barnier. This method was applied to data collected from matrimonial advertisements on an Indian website.\nYou can access the tutorials for the workshop here."
+  },
+  {
+    "objectID": "teaching/index.html#textual-analysis-with-mendak",
+    "href": "teaching/index.html#textual-analysis-with-mendak",
+    "title": "Teaching ",
+    "section": "",
+    "text": "To introduce text analysis in a “point-and-click” mode, one can use the Mendak application (here, or better, here).\nYou can access a (brief) tutorial in English here."
+  },
+  {
+    "objectID": "teaching/index.html#teaching-stats-for-social-scientists-in-r",
+    "href": "teaching/index.html#teaching-stats-for-social-scientists-in-r",
+    "title": "Teaching ",
+    "section": "",
+    "text": "I gathered the teaching material used for teaching R for social scientists for a workshop with PhD students from the Sociology and Political Science Graduate School of Université Paris-Saclay (June 2025). The tutorials cover univariate, bivariate, MCA, textual analysis and a few functions that render data management easier in R.\nYou can access the tutorials (in French) for the workshop here."
   },
   {
     "objectID": "publications/reviews/index.html",
@@ -61,6 +75,13 @@
     "title": "Mathieu Ferry",
     "section": "",
     "text": "Ferry M. (2025). At the Cost of Vegetarianism. Caste legitimacy and cultural autonomy in contemporary India, Bulletin of Sociological Methodology, Online First.\n PDF (in French)  DOI\n\nWeber R., Ferry, M., Ichou M. (2024). Which Degree for Which Occupation? Vertical and Horizontal Mismatch Among Immigrants, Their Children, and Grandchildren in France. Demography, 11670148.\n PDF  DOI\n\nFerry M. (2024). Cow gastronationalism in India: The instrumentalization of a religious symbol in reinforcing Hindu national sentiment and stigmatizing Muslims, Critique internationale, 103 (2), 11‑-38.\n Revue\n\nFerry, M. (2022). Where Does Ascribed Privilege Get You in? Structural and Net Effects of Caste and Religious Belonging in India. Sociology, 56(6), 1176–1199.\n Pre-print  DOI\n\nFerry, M. (2020). What’s India’s Beef with Meat? Hindu Orthopraxis and Food Transition in India Since the 1980. Sociological Forum, 35(2), 511–534.\n PDF  DOI\n\nNaudet, J., Allorant, A., & Ferry, M. (2018). Heirs, corporate aristocrats and ‘Meritocrats’: the social space of top CEOs and Chairmen in India. Socio-Economic Review, 16(2), 307–339.\n PDF  DOI\n\nFerry, M., Naudet, J., & Roueff, O. (2018). Seeking the Indian social space. A multidimensional portrait of the stratifications of Indian society. South Asia Multidisciplinary Academic Journal.\n PDF  DOI\n\nHenry, O., & Ferry, M. (2017). When Cracking the JEE is not Enough. South Asia Multidisciplinary Academic Journal, 15.\n PDF  DOI"
+  },
+  {
+    "objectID": "posts/2025-06-03-Mendak-Analyse-Textuelle/index.html",
+    "href": "posts/2025-06-03-Mendak-Analyse-Textuelle/index.html",
+    "title": "Mendak pour l’analyse textuelle",
+    "section": "",
+    "text": "Après quelques expériences d’enseignement des statistiques pour les sciences sociales, et notamment d’analyse textuelle sur R (voir par exemple ici), j’ai voulu avoir recours à un logiciel “clic-bouton” pour enseigner auprès d’étudiant·es qui ne maitrisent pas et n’ont pas forcément vocation à apprendre à coder en R.\nIl existe déjà pléthore de logiciels d’analyse textuelle qui répondent à ce critère : Iramuteq (fondé sur Alceste), Hyperbase (qui dispose d’une version utilisable en ligne), TXM…\nComme j’avais été familiarisé à l’analyse textuelle grâce à Iramuteq, que j’appréciais l’algorithme de classification proposé par Max Reinert, j’avais été ravi de voir que Julien Barnier en proposait une implémentation dans le package rainette dans R.\nL’idée a alors été de proposer une application en ligne permettant d’utiliser cet algorithme.\n\nMendak, une appli shiny\nMendak (My Easy-to-use Navigator for Data Analysis and Klustering) est une application shiny disponible pour le moment sur huma-num ou sur le serveur de Benjamin Azoulay et Charles de Courson qui ont développé Gallicagram (merci à eux !). Le deuxième lien marche a priori mieux.\nDe manière expérimentale, on peut aussi, si on a R sur son ordinateur, utiliser Mendak en téléchargeant un package R.\nL’application permet d’utiliser des jeux de données existants ou de charger son propre jeu de données. Un tutoriel relativement complet en français est aussi proposé.\nLes outils proposés relèvent essentiellement de l’Analyse Géométrique des Données.\n\n\n\nInterface de nettoyage des textes\n\n\n\n\nConstituer un corpus textuel avec Europresse\nAvant d’utiliser Mendak, on peut aussi créer un corpus d’articles disponibles sur Europresse (si on a des identifiants) en suivant ce petit tutoriel. Cette création d’un corpus d’articles est facilitée par l’appli EuroDecodeur qui permet de transformer un fichier html issu d’une recherche et est disponible ici ou ici.\n\n\n\nInterface d’EuroDecodeur\n\n\nLes applications ne présentent pour le moment pas le code R correspondant aux différentes manipulations effectuées. Toutefois, on pourra trouver dans ce tutoriel pour R quelques pistes d’analyse pour son corpus en utilisant R.\n\n\n\nUne grenouille"
   },
   {
     "objectID": "posts/2024-11-20-Passation-POF-UVSQ/index.html",
@@ -144,6 +165,6 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "POF à l’UVSQ, édition 2024\n\n\n\nPOF\n\n\nUVSQ\n\n\ncours\n\n\n\nUn (bref) retour sur la passation de l’enquête par questionnaire\n\n\n\nMathieu Ferry\n\n\nNov 20, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "POF à l’UVSQ, édition 2024\n\n\n\nPOF\n\n\nUVSQ\n\n\ncours\n\n\n\nUn (bref) retour sur la passation de l’enquête par questionnaire\n\n\n\nMathieu Ferry\n\n\nNov 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMendak pour l’analyse textuelle\n\n\n\nAnalyse textuelle\n\n\nUVSQ\n\n\ncours\n\n\nMendak\n\n\n\nDécouvrir l’exploration de données textuelles\n\n\n\nMathieu Ferry\n\n\nNov 20, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

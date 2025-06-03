@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Mathieu Ferry">
+<meta name="dcterms.date" content="2024-11-20">
+<meta name="description" content="Découvrir l’exploration de données textuelles">
 
-<title>Mathieu Ferry -</title>
+<title>Mathieu Ferry - Mendak pour l’analyse textuelle</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +26,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../image/icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="../site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../image/icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -49,21 +52,21 @@ ul.task-list li input[type="checkbox"] {
   "type": "overlay",
   "limit": 20,
   "language": {
-    "search-no-results-text": "Pas de résultats",
-    "search-matching-documents-text": "documents trouvés",
-    "search-copy-link-title": "Copier le lien vers la recherche",
-    "search-hide-matches-text": "Cacher les correspondances additionnelles",
-    "search-more-match-text": "correspondance de plus dans ce document",
-    "search-more-matches-text": "correspondances de plus dans ce document",
-    "search-clear-button-title": "Effacer",
-    "search-detached-cancel-button-title": "Annuler",
-    "search-submit-button-title": "Envoyer",
-    "search-label": "Recherche"
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
 
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -73,35 +76,35 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Mathieu Ferry</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Recherche"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html" rel="" target="">
- <span class="menu-text">Présentation</span></a>
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../cv/index.html" rel="" target="">
+    <a class="nav-link" href="../../cv/index.html" rel="" target="">
  <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications/index.html" rel="" target=""><i class="bi bi-book" role="img">
+    <a class="nav-link" href="../../publications/index.html" rel="" target=""><i class="bi bi-book" role="img">
 </i> 
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../teaching/index.html" rel="" target="" aria-current="page">
- <span class="menu-text"><iconify-icon inline="" icon="mdi:teacher"></iconify-icon> Enseignements</span></a>
+    <a class="nav-link" href="../../teaching/index.html" rel="" target="">
+ <span class="menu-text"><iconify-icon inline="" icon="mdi:teacher"></iconify-icon> Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../posts.html" rel="" target=""><i class="bi bi-pencil" role="img">
+    <a class="nav-link" href="../../posts.html" rel="" target=""><i class="bi bi-pencil" role="img">
 </i> 
  <span class="menu-text">Blog</span></a>
   </li>  
@@ -113,11 +116,11 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../fr" rel="" target="">
+    <a class="nav-link" href="../../../fr" rel="" target="">
  <span class="menu-text">Français</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../" rel="" target="">
+    <a class="nav-link" href="../../../" rel="" target="">
  <span class="menu-text">English</span></a>
   </li>  
 </ul>
@@ -128,54 +131,99 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Mendak pour l’analyse textuelle</h1>
+                  <div>
+        <div class="description">
+          Découvrir l’exploration de données textuelles
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Analyse textuelle</div>
+                <div class="quarto-category">UVSQ</div>
+                <div class="quarto-category">cours</div>
+                <div class="quarto-category">Mendak</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p><a href="https://mathieuferry.github.io/fr/">Mathieu Ferry</a> </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">November 20, 2024</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Sur cette page</h2>
+    <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#enseignements-iconify-mdi-teacher" id="toc-enseignements-iconify-mdi-teacher" class="nav-link active" data-scroll-target="#enseignements-iconify-mdi-teacher">Enseignements <iconify-icon inline="" icon="mdi:teacher"></iconify-icon></a>
-  <ul class="collapse">
-  <li><a href="#analyse-des-données" id="toc-analyse-des-données" class="nav-link" data-scroll-target="#analyse-des-données">Analyse des données</a></li>
-  <li><a href="#séminaire-danalyse-textuelle" id="toc-séminaire-danalyse-textuelle" class="nav-link" data-scroll-target="#séminaire-danalyse-textuelle">Séminaire d’Analyse Textuelle</a></li>
-  <li><a href="#lanalyse-textuelle-avec-eurodecodeur-et-mendak" id="toc-lanalyse-textuelle-avec-eurodecodeur-et-mendak" class="nav-link" data-scroll-target="#lanalyse-textuelle-avec-eurodecodeur-et-mendak">L’analyse textuelle avec EuroDecodeur et Mendak</a></li>
-  <li><a href="#r-pour-les-sciences-sociales-quantitatives" id="toc-r-pour-les-sciences-sociales-quantitatives" class="nav-link" data-scroll-target="#r-pour-les-sciences-sociales-quantitatives">R pour les sciences sociales quantitatives</a></li>
-  </ul></li>
+  <li><a href="#mendak-une-appli-shiny" id="toc-mendak-une-appli-shiny" class="nav-link active" data-scroll-target="#mendak-une-appli-shiny">Mendak, une appli shiny</a></li>
+  <li><a href="#constituer-un-corpus-textuel-avec-europresse" id="toc-constituer-un-corpus-textuel-avec-europresse" class="nav-link" data-scroll-target="#constituer-un-corpus-textuel-avec-europresse">Constituer un corpus textuel avec Europresse</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
-<section id="enseignements-iconify-mdi-teacher" class="level1">
-<h1>Enseignements <iconify-icon inline="" icon="mdi:teacher"></iconify-icon></h1>
-<p>Dans le cadre des enseignements de méthodes quantitatives pour les sciences sociales, j’ai commencé à rassembler ici quelques supports de cours.</p>
-<section id="analyse-des-données" class="level2">
-<h2 class="anchored" data-anchor-id="analyse-des-données">Analyse des données</h2>
-<p>Le cours d’Analyse des données s’adresse à des étudiants de L3 “Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales” (MIASHS) et constitue également un électif pour les étudiants de L3 en sociologie. Il propose une introduction à l’Analyse Géométrique des Données : le cours magistral articule présentation des méthodes et illustrations en sciences sociales, et les travaux dirigés sont consacrés à l’application des méthodes sur des jeux de données réelles à l’aide du logiciel R.</p>
-<p>On pourra retrouver quelques corrigés des travaux dirigés <a href="https://mathieuferry.github.io/AnalyseDesDonnees/">ici</a>.</p>
+
+<p>Après quelques expériences d’enseignement des statistiques pour les sciences sociales, et notamment d’analyse textuelle sur R (voir par exemple <a href="https://mathieuferry.github.io/PondicherryWorkshop/">ici</a>), j’ai voulu avoir recours à un logiciel “clic-bouton” pour enseigner auprès d’étudiant·es qui ne maitrisent pas et n’ont pas forcément vocation à apprendre à coder en R.</p>
+<p>Il existe déjà pléthore de logiciels d’analyse textuelle qui répondent à ce critère : Iramuteq (fondé sur Alceste), Hyperbase (qui dispose d’une version utilisable <a href="https://hyperbase.unice.fr/">en ligne</a>), TXM…</p>
+<p>Comme j’avais été familiarisé à l’analyse textuelle grâce à Iramuteq, que j’appréciais l’algorithme de classification proposé par Max Reinert, j’avais été ravi de voir que Julien Barnier en proposait une implémentation dans le package <a href="https://juba.github.io/rainette/index.html">rainette</a> dans R.</p>
+<p>L’idée a alors été de proposer une application en ligne permettant d’utiliser cet algorithme.</p>
+<section id="mendak-une-appli-shiny" class="level1">
+<h1>Mendak, une appli shiny</h1>
+<p>Mendak (My Easy-to-use Navigator for Data Analysis and Klustering) est une application shiny disponible pour le moment sur <a href="https://analytics.huma-num.fr/Mathieu.Ferry/mendak/">huma-num</a> ou sur le <a href="https://shiny.ens-paris-saclay.fr/app/mendak">serveur</a> de Benjamin Azoulay et Charles de Courson qui ont développé Gallicagram (merci à eux !). Le deuxième lien marche a priori mieux.</p>
+<p>De manière expérimentale, on peut aussi, si on a R sur son ordinateur, utiliser Mendak en téléchargeant un <a href="https://github.com/MathieuFerry/Mendak-package">package R</a>.</p>
+<p>L’application permet d’utiliser des jeux de données existants ou de charger son propre jeu de données. Un <a href="https://mathieuferry.github.io/Tutorials-for-Mendak/TutorielFR.html">tutoriel</a> relativement complet en français est aussi proposé.</p>
+<p>Les outils proposés relèvent essentiellement de l’Analyse Géométrique des Données.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Photo2.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Interface de nettoyage des textes</figcaption>
+</figure>
+</div>
 </section>
-<section id="séminaire-danalyse-textuelle" class="level2">
-<h2 class="anchored" data-anchor-id="séminaire-danalyse-textuelle">Séminaire d’Analyse Textuelle</h2>
-<p>J’ai participé à la <a href="https://www.ifpindia.org/ifp-in-spotlight/apply-now-digital-society-social-sciences-winter-school-november-13-17-2023-Ifp/">Winter School de Pondicherry</a> en novembre 2023, en co-animant le workshop “Computational and mixed methods”. J’y ai présenté la méthode d’analyse textuelle développée par Max Reinert, maintenant disponible dans R grâce au package R “rainette” dévelopé par Julien Barnier. J’illustre cette d’exploration textuelle à partir de données issues d’une aspiration d’annonces matrimoniales d’un site internet indien.</p>
-<p>Les tutoriels du workshop sont à retrouver <a href="https://mathieuferry.github.io/PondicherryWorkshop/">ici</a>.</p>
-</section>
-<section id="lanalyse-textuelle-avec-eurodecodeur-et-mendak" class="level2">
-<h2 class="anchored" data-anchor-id="lanalyse-textuelle-avec-eurodecodeur-et-mendak">L’analyse textuelle avec EuroDecodeur et Mendak</h2>
-<p>Pour faire découvrir l’analyse textuelle en mode “clic-bouton”, on peut mobiliser l’application Mendak (<a href="https://analytics.huma-num.fr/Mathieu.Ferry/mendak/">ici</a> ou mieux, <a href="https://shiny.ens-paris-saclay.fr/app/mendak">ici</a>). On pourra suivre un tutoriel de création d’un corpus d’articles avec Europresse, qui est ensuite utilisable dans Mendak (ou ailleurs) en suivant les consignes de ce <a href="https://mathieuferry.github.io/FormationR/corpus.html">petit tuto</a> et en utilisant EuroDecodeur (<a href="https://analytics.huma-num.fr/Mathieu.Ferry/EuroDecodeur/">ici</a> ou <a href="https://mathieufer.shinyapps.io/europressedecodeur/">ici</a>).</p>
-<p>Un tutoriel de présentation des fonctionnalités de Mendak est disponible <a href="https://mathieuferry.github.io/Tutorials-for-Mendak/TutorielFR.html">ici</a>.</p>
-</section>
-<section id="r-pour-les-sciences-sociales-quantitatives" class="level2">
-<h2 class="anchored" data-anchor-id="r-pour-les-sciences-sociales-quantitatives">R pour les sciences sociales quantitatives</h2>
-<p>J’ai rassemblé les tutoriels utilisés pour enseigner R pour les sciences sociales dans le cadre d’un atelier destiné aux doctorant·e·s de l’École doctorale de sociologie et de science politique de l’Université Paris-Saclay (juin 2025). Les tutos couvrent l’analyse univariée, bivariée, l’ACM, l’analyse textuelle, ainsi que quelques fonctions facilitant la gestion des données sous R.</p>
-<p>Les tutoriels du workshop sont à retrouver <a href="https://mathieuferry.github.io/FormationR/">ici</a>.</p>
+<section id="constituer-un-corpus-textuel-avec-europresse" class="level1">
+<h1>Constituer un corpus textuel avec Europresse</h1>
+<p>Avant d’utiliser Mendak, on peut aussi créer un corpus d’articles disponibles sur Europresse (si on a des identifiants) en suivant ce <a href="https://mathieuferry.github.io/FormationR/corpus.html">petit tutoriel</a>. Cette création d’un corpus d’articles est facilitée par l’appli EuroDecodeur qui permet de transformer un fichier html issu d’une recherche et est disponible <a href="https://analytics.huma-num.fr/Mathieu.Ferry/EuroDecodeur/">ici</a> ou <a href="https://mathieufer.shinyapps.io/europressedecodeur/">ici</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Photo3.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Interface d’EuroDecodeur</figcaption>
+</figure>
+</div>
+<p>Les applications ne présentent pour le moment pas le code R correspondant aux différentes manipulations effectuées. Toutefois, on pourra trouver dans ce <a href="https://mathieuferry.github.io/FormationR/textometrie.html">tutoriel</a> pour R quelques pistes d’analyse pour son corpus en utilisant R.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Photo1.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Une grenouille</figcaption>
+</figure>
+</div>
 
 
-</section>
 </section>
 
 <script defer="" src="https://cloud.umami.is/script.js" data-website-id="2cc75ac6-21f8-41be-9c15-c3e06cbadefa"></script></main> <!-- /main -->
@@ -233,12 +281,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copié");
+    button.setAttribute("title", "Copied!");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copié");
+      button.setAttribute("data-bs-title", "Copied!");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -411,6 +459,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
+</script>
+<script src="https://utteranc.es/client.js" repo="MathieuFerry/blogComments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
 

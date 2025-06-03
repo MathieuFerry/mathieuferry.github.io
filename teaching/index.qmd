@@ -16,9 +16,21 @@ You will find some of the guided exercise solutions [here](https://mathieuferry.
 
 ## Textual Analysis
 
-I am participating in the [Pondicherry Social Science Winter School](https://www.ifpindia.org/ifp-in-spotlight/apply-now-digital-society-social-sciences-winter-school-november-13-17-2023-Ifp/) in November 2023, where I will co-host the "Computational and Mixed Methods" workshop. During the workshop, I will be presenting Max Reinert's textual analysis method, which is now available in the "rainette" R package developed by Julien Barnier. This method will be applied to data collected from matrimonial advertisements on an Indian website.
+I participated in the [Pondicherry Social Science Winter School](https://www.ifpindia.org/ifp-in-spotlight/apply-now-digital-society-social-sciences-winter-school-november-13-17-2023-Ifp/) in November 2023, where I co-hosted the "Computational and Mixed Methods" workshop. During the workshop, I presented Max Reinert's textual analysis method, which is now available in the "rainette" R package developed by Julien Barnier. This method was applied to data collected from matrimonial advertisements on an Indian website.
 
 You can access the tutorials for the workshop [here](https://mathieuferry.github.io/PondicherryWorkshop/).
+
+## Textual Analysis with Mendak
+
+To introduce text analysis in a "point-and-click" mode, one can use the Mendak application ([here](https://analytics.huma-num.fr/Mathieu.Ferry/mendak/), or better, [here](https://shiny.ens-paris-saclay.fr/app/mendak)).
+
+You can access a (brief) tutorial in English [here](https://mathieuferry.github.io/Tutorials-for-Mendak/TutorialEN.html).
+
+## Teaching stats for social scientists in R
+
+I gathered the teaching material used for teaching R for social scientists for a workshop with PhD students from the Sociology and Political Science Graduate School of Université Paris-Saclay (June 2025). The tutorials cover univariate, bivariate, MCA, textual analysis and a few functions that render data management easier in R.
+
+You can access the tutorials (in French) for the workshop [here](https://mathieuferry.github.io/FormationR/).
 :::
 
 ::: {.content-visible when-profile="french"}
@@ -34,7 +46,19 @@ On pourra retrouver quelques corrigés des travaux dirigés [ici](https://mathie
 
 ## Séminaire d'Analyse Textuelle
 
-Je participe à la [Winter School de Pondicherry](https://www.ifpindia.org/ifp-in-spotlight/apply-now-digital-society-social-sciences-winter-school-november-13-17-2023-Ifp/) en novembre 2023, en co-animant le workshop "Computational and mixed methods". Je présente la méthode d'analyse textuelle développée par Max Reinert, maintenant disponible dans R grâce au package R "rainette" dévelopé par Julien Barnier. J'illustre cette d'exploration textuelle à partir de données issues d'une aspiration d'annonces matrimoniales d'un site internet indien.
+J'ai participé à la [Winter School de Pondicherry](https://www.ifpindia.org/ifp-in-spotlight/apply-now-digital-society-social-sciences-winter-school-november-13-17-2023-Ifp/) en novembre 2023, en co-animant le workshop "Computational and mixed methods". J'y ai présenté la méthode d'analyse textuelle développée par Max Reinert, maintenant disponible dans R grâce au package R "rainette" dévelopé par Julien Barnier. J'illustre cette d'exploration textuelle à partir de données issues d'une aspiration d'annonces matrimoniales d'un site internet indien.
 
 Les tutoriels du workshop sont à retrouver [ici](https://mathieuferry.github.io/PondicherryWorkshop/).
+
+## L'analyse textuelle avec EuroDecodeur et Mendak
+
+Pour faire découvrir l'analyse textuelle en mode "clic-bouton", on peut mobiliser l'application Mendak ([ici](https://analytics.huma-num.fr/Mathieu.Ferry/mendak/) ou mieux, [ici](https://shiny.ens-paris-saclay.fr/app/mendak)). On pourra suivre un tutoriel de création d'un corpus d'articles avec Europresse, qui est ensuite utilisable dans Mendak (ou ailleurs) en suivant les consignes de ce [petit tuto](https://mathieuferry.github.io/FormationR/corpus.html) et en utilisant EuroDecodeur ([ici](https://analytics.huma-num.fr/Mathieu.Ferry/EuroDecodeur/) ou [ici](https://mathieufer.shinyapps.io/europressedecodeur/)).
+
+Un tutoriel de présentation des fonctionnalités de Mendak est disponible [ici](https://mathieuferry.github.io/Tutorials-for-Mendak/TutorielFR.html).
+
+## R pour les sciences sociales quantitatives
+
+J’ai rassemblé les tutoriels utilisés pour enseigner R pour les sciences sociales dans le cadre d’un atelier destiné aux doctorant·e·s de l’École doctorale de sociologie et de science politique de l’Université Paris-Saclay (juin 2025). Les tutos couvrent l’analyse univariée, bivariée, l’ACM, l’analyse textuelle, ainsi que quelques fonctions facilitant la gestion des données sous R.
+
+Les tutoriels du workshop sont à retrouver [ici](https://mathieuferry.github.io/FormationR/).
 :::

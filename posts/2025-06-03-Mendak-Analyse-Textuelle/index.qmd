@@ -1,0 +1,44 @@
+---
+title: "Mendak pour l'analyse textuelle"
+description: "Découvrir l'exploration de données textuelles"
+author:
+  - name: Mathieu Ferry
+    url: https://mathieuferry.github.io/fr/
+date: 11-20-2024
+categories: [Analyse textuelle, UVSQ, cours, Mendak] # self-defined categories
+citation: 
+  url: https://mathieuferry.github.io/fr/posts/2025-06-03-Mendak/ 
+appendix-cite-as: false
+image: Photo1.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Après quelques expériences d'enseignement des statistiques pour les sciences sociales, et notamment d'analyse textuelle sur R (voir par exemple [ici](https://mathieuferry.github.io/PondicherryWorkshop/)), j'ai voulu avoir recours à un logiciel "clic-bouton" pour enseigner auprès d'étudiant·es qui ne maitrisent pas et n'ont pas forcément vocation à apprendre à coder en R.
+
+Il existe déjà pléthore de logiciels d'analyse textuelle qui répondent à ce critère : Iramuteq (fondé sur Alceste), Hyperbase (qui dispose d'une version utilisable [en ligne](https://hyperbase.unice.fr/)), TXM...
+
+Comme j'avais été familiarisé à l'analyse textuelle grâce à Iramuteq, que j'appréciais l'algorithme de classification proposé par Max Reinert, j'avais été ravi de voir que Julien Barnier en proposait une implémentation dans le package [rainette](https://juba.github.io/rainette/index.html) dans R.
+
+L'idée a alors été de proposer une application en ligne permettant d'utiliser cet algorithme.
+
+# Mendak, une appli shiny
+
+Mendak (My Easy-to-use Navigator for Data Analysis and Klustering) est une application shiny disponible pour le moment sur [huma-num](https://analytics.huma-num.fr/Mathieu.Ferry/mendak/) ou sur le [serveur](https://shiny.ens-paris-saclay.fr/app/mendak) de Benjamin Azoulay et Charles de Courson qui ont développé Gallicagram (merci à eux !). Le deuxième lien marche a priori mieux.
+
+De manière expérimentale, on peut aussi, si on a R sur son ordinateur, utiliser Mendak en téléchargeant un [package R](https://github.com/MathieuFerry/Mendak-package).
+
+L'application permet d'utiliser des jeux de données existants ou de charger son propre jeu de données. Un [tutoriel](https://mathieuferry.github.io/Tutorials-for-Mendak/TutorielFR.html) relativement complet en français est aussi proposé.
+
+Les outils proposés relèvent essentiellement de l'Analyse Géométrique des Données.
+
+![Interface de nettoyage des textes](Photo2.jpg){fig-align="center"}
+
+# Constituer un corpus textuel avec Europresse
+
+Avant d'utiliser Mendak, on peut aussi créer un corpus d'articles disponibles sur Europresse (si on a des identifiants) en suivant ce [petit tutoriel](https://mathieuferry.github.io/FormationR/corpus.html). Cette création d'un corpus d'articles est facilitée par l'appli EuroDecodeur qui permet de transformer un fichier html issu d'une recherche et est disponible [ici](https://analytics.huma-num.fr/Mathieu.Ferry/EuroDecodeur/) ou [ici](https://mathieufer.shinyapps.io/europressedecodeur/).
+
+![Interface d'EuroDecodeur](Photo3.jpg){fig-align="center"}
+
+Les applications ne présentent pour le moment pas le code R correspondant aux différentes manipulations effectuées. Toutefois, on pourra trouver dans ce [tutoriel](https://mathieuferry.github.io/FormationR/textometrie.html) pour R quelques pistes d'analyse pour son corpus en utilisant R.
+
+![Une grenouille](Photo1.jpg){fig-align="center"}
