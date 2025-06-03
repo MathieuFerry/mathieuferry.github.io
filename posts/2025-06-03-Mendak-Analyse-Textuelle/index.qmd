@@ -4,7 +4,7 @@ description: "Découvrir l'exploration de données textuelles"
 author:
   - name: Mathieu Ferry
     url: https://mathieuferry.github.io/fr/
-date: 11-20-2024
+date: 06-03-2025
 categories: [Analyse textuelle, UVSQ, cours, Mendak] # self-defined categories
 citation: 
   url: https://mathieuferry.github.io/fr/posts/2025-06-03-Mendak/ 
