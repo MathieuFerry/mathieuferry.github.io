@@ -23,7 +23,7 @@ L'idée a alors été de proposer une application en ligne permettant d'utiliser
 
 # Mendak, une appli shiny
 
-Mendak (My Easy-to-use Navigator for Data Analysis and Klustering) est une application shiny disponible pour le moment sur [huma-num](https://analytics.huma-num.fr/Mathieu.Ferry/mendak/) ou sur le [serveur](https://shiny.ens-paris-saclay.fr/app/mendak) de Benjamin Azoulay et Charles de Courson qui ont développé Gallicagram (merci à eux !). Le deuxième lien marche a priori mieux.
+Mendak (My Easy-to-use Navigator for Data Analysis and Klustering) est une application shiny disponible pour le moment sur [huma-num](https://analytics.huma-num.fr/Mathieu.Ferry/mendak/) ou sur le [serveur](https://shiny.ens-paris-saclay.fr/app/mendak) de Benjamin Azoulay et Benoît de Courson qui ont développé Gallicagram (merci à eux !). Le deuxième lien marche a priori mieux.
 
 De manière expérimentale, on peut aussi, si on a R sur son ordinateur, utiliser Mendak en téléchargeant un [package R](https://github.com/MathieuFerry/Mendak-package).
 
