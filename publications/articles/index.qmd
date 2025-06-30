@@ -15,6 +15,8 @@ Ichou M., **Ferry M.** (2025). Immigration and Social Mobility. A Review of the 
 [{{< iconify icons8 pdf >}} PDF](articles/ichou-ferry-2025/vacceptee.pdf) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.3917/anso.251.0015)
 :::
 
+------------------------------------------------------------------------
+
 ::: {.content-visible when-profile="french"}
 **Ferry M.** (2025). Le prix du végétarisme Légitimité et autonomie culturelle de la caste en Inde contemporaine, *Bulletin de Méthodologie Sociologique*, Online First.
 
