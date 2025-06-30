@@ -4,6 +4,18 @@ page-layout: full
 ---
 
 ::: {.content-visible when-profile="french"}
+Ichou M., **Ferry M.** (2025). Immigration et mobilité sociale. Revue de la littérature internationale sur les tendances observées et leurs mécanismes explicatifs, *L'Année Sociologique*, *75*.
+
+[{{< iconify icons8 pdf >}} PDF](articles/ichou-ferry-2025/vacceptee.pdf) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.3917/anso.251.0015)
+:::
+
+::: {.content-visible when-profile="english"}
+Ichou M., **Ferry M.** (2025). Immigration and Social Mobility. A Review of the International Literature on Observed Trends and their Explanatory Mechanisms, *L'Année Sociologique*, *75*.
+
+[{{< iconify icons8 pdf >}} PDF](articles/ichou-ferry-2025/vacceptee.pdf) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.3917/anso.251.0015)
+:::
+
+::: {.content-visible when-profile="french"}
 **Ferry M.** (2025). Le prix du végétarisme Légitimité et autonomie culturelle de la caste en Inde contemporaine, *Bulletin de Méthodologie Sociologique*, Online First.
 
 [{{< iconify icons8 pdf >}} PDF](articles/ferry-2025/ferry-2025_vegetarisme.pdf) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1177/07591063251317058)
