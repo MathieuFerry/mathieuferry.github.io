@@ -31,7 +31,7 @@ format:
 ---
 
 ::: {.content-visible when-profile="english"}
-I am a sociologist and currently an Assistant Professor (Maître de conférences) at [Université Versailles Saint-Quentin](https://www.uvsq.fr/english) (UVSQ, a founding member of [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)), and a researcher at [Printemps](https://www.printemps.uvsq.fr/).
+I am a sociologist and currently an Associate Professor (Maître de conférences) at [Université Versailles Saint-Quentin](https://www.uvsq.fr/english) (UVSQ, a founding member of [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)), and a researcher at [Printemps](https://www.printemps.uvsq.fr/).
 
 I am also a Research Associate at [INED (French Institute for Demographic Studies)](https://www.ined.fr/en/), within the Research Unit ["International Migrations and Minorities"](https://www.ined.fr/en/research/research-teams/UR08), and an Affiliated Researcher at [CESAH (Centre d’Études Sud-Asiatiques et Himalayennes)](https://cesah.ehess.fr/en).
 
