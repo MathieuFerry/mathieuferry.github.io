@@ -4,6 +4,20 @@ page-layout: full
 ---
 
 ::: {.content-visible when-profile="french"}
+Lavest C., **Ferry M.**, Ichou M., Präg P. (2025). Who do they think you are? Inconsistencies in self- and proxy-reports of education within families, *Social Science Research*, *132*.
+
+[{{< iconify icons8 pdf >}} PDF](https://osf.io/b2qsu_v2) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1016/j.ssresearch.2025.103225)
+:::
+
+::: {.content-visible when-profile="english"}
+Lavest C., **Ferry M.**, Ichou M., Präg P. (2025). Who do they think you are? Inconsistencies in self- and proxy-reports of education within families, *Social Science Research*, *132*.
+
+[{{< iconify icons8 pdf >}} PDF](https://osf.io/b2qsu_v2) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1016/j.ssresearch.2025.103225)
+:::
+
+------------------------------------------------------------------------
+
+::: {.content-visible when-profile="french"}
 Ichou M., **Ferry M.** (2025). Immigration et mobilité sociale. Revue de la littérature internationale sur les tendances observées et leurs mécanismes explicatifs, *L'Année Sociologique*, *75*.
 
 [{{< iconify icons8 pdf >}} PDF](articles/ichou-ferry-2025/vacceptee.pdf) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.3917/anso.251.0015)

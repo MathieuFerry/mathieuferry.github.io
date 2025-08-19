@@ -3,6 +3,19 @@ title: ""
 page-layout: full
 ---
 
+Henry O. & **Ferry, M.** (2025). What Does My IITian Tag Actually Mean? The Relationship between Academic Titles and Job Positions: The Case of Students at an Indian Institute of Technology (IIT). In V. Caru (Ed.), *Engineers and Society in India: From circa 1850 to Present Times* (pp. 139–178). Edward Elgar Publishing. 
+
+::: {.content-visible when-profile="english"}
+[{{< iconify ph book-duotone >}}Publisher's website](https://doi.org/10.1093/9780198935940.003.0006)
+:::
+
+::: {.content-visible when-profile="french"}
+[{{< iconify ph book-duotone >}}Site de l'éditeur](https://doi.org/10.1093/9780198935940.003.0006)
+:::
+
+------------------------------------------------------------------------
+
+
 **Ferry, M.**, & Ichou, M. (2024). The role of migration for intergenerational mobility. In E. Kilpi-Jakonen, J. Blanden, J. Erola, & L. Macmillan (Eds.), *Research Handbook on Intergenerational Inequality* (pp. 249–263). Edward Elgar Publishing. 
 
 ::: {.content-visible when-profile="english"}
