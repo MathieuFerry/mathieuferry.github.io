@@ -40,7 +40,7 @@ Henry O. & **Ferry, M.** (2025). What Does My IITian Tag Actually Mean? The Rela
 
 ------------------------------------------------------------------------
 
-**Ferry, M.** (2023). Social Honour. In S. S. Jodhka & B. Rehbein (Eds.), *Global Handbook of Inequality*. Cham: Springer International Publishing (living reference work entry).
+**Ferry, M.** (2024). Social Honour. In S. S. Jodhka & B. Rehbein (Eds.), *Global Handbook of Inequality*. Cham: Springer International Publishing (living reference work entry).
 
 ::: {.content-visible when-profile="english"}
 [{{< iconify icons8 pdf >}} Pre-print](chapters/ferry-2023/Preprint-ferry-2023.pdf) [{{< iconify ph book-duotone >}}Publisher's website](https://doi.org/10.1007/978-3-030-97417-6_20-1)
