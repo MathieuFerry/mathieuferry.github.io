@@ -28,7 +28,7 @@ Henry O. & **Ferry, M.** (2025). What Does My IITian Tag Actually Mean? The Rela
 
 ------------------------------------------------------------------------
 
-**Ferry, M.**, 2023. Vegetarianism and Non-Vegetarian Consumption in India, in: Guilmoto, C.Z. (Ed.), *Atlas of Gender and Health Inequalities in India, Demographic Transformation and Socio-Economic Development*. Springer Nature Switzerland, Cham, pp. 29–39.
+**Ferry, M.** (2023). Vegetarianism and Non-Vegetarian Consumption in India, in: Guilmoto, C.Z. (Ed.), *Atlas of Gender and Health Inequalities in India, Demographic Transformation and Socio-Economic Development*. Springer Nature Switzerland, Cham, pp. 29–39.
 
 ::: {.content-visible when-profile="english"}
 [{{< iconify icons8 pdf >}} Main map](chapters/ferry-map-veg-2023/VegetarianismMap.png) [{{< iconify ph book-duotone >}}Publisher's website](https://doi.org/10.1007/978-3-031-47847-5_3)
