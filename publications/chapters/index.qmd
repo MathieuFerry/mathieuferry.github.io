@@ -3,7 +3,7 @@ title: ""
 page-layout: full
 ---
 
-Henry O. & **Ferry, M.** (2025). What Does My IITian Tag Actually Mean? The Relationship between Academic Titles and Job Positions: The Case of Students at an Indian Institute of Technology (IIT). In V. Caru (Ed.), *Engineers and Society in India: From circa 1850 to Present Times* (pp. 139–178). Edward Elgar Publishing. 
+Henry O. & **Ferry, M.** (2025). What Does My IITian Tag Actually Mean? The Relationship between Academic Titles and Job Positions: The Case of Students at an Indian Institute of Technology (IIT). In V. Caru (Ed.), *Engineers and Society in India: From circa 1850 to Present Times* (pp. 139–178). Oxford University Press.  
 
 ::: {.content-visible when-profile="english"}
 [{{< iconify ph book-duotone >}}Publisher's website](https://doi.org/10.1093/9780198935940.003.0006)
