@@ -31,21 +31,25 @@ format:
 ---
 
 ::: {.content-visible when-profile="english"}
-I am a sociologist and currently an Associate Professor (Maître de conférences) at [Université Versailles Saint-Quentin](https://www.uvsq.fr/english) (UVSQ, a founding member of [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)), and a researcher at [Printemps](https://www.printemps.uvsq.fr/).
+I am a sociologist and currently a Researcher at the [French Institute of Pondicherry](https://www.ifpindia.org/) (IFP). 
 
-I am also a Research Associate at [INED (French Institute for Demographic Studies)](https://www.ined.fr/en/), within the Research Unit ["International Migrations and Minorities"](https://www.ined.fr/en/research/research-teams/UR08), and an Affiliated Researcher at [CESAH (Centre d’Études Sud-Asiatiques et Himalayennes)](https://cesah.ehess.fr/en).
+I am on leave from my Associate Professorship (Maître de conférences) at [Université Versailles Saint-Quentin](https://www.uvsq.fr/english) (UVSQ, a founding member of [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)), and a researcher at [Printemps](https://www.printemps.uvsq.fr/). I am also an Affiliated Researcher at [CESAH (Centre d’Études Sud-Asiatiques et Himalayennes)](https://cesah.ehess.fr/en).
 
 My research interests are in the study of social stratification, class and educational mobility, and lifestyle segmentation.
 
 In my [PhD dissertation](https://hal-sciencespo.archives-ouvertes.fr/tel-03620008/document), I investigated food-related caste and religious social dynamics of status, integration and stigmatization in contemporary India.
 
-In my current research, I study how caste and religion shape intergenerational class trajectories in a context of growing economic inequality and educational expansion in India. Along with the [3GEN](https://3gen.site.ined.fr/en/) team, I also investigate the patterns and mechanisms of social mobility among migrant families in France.
+During my postdoctoral research, along with the [3GEN](https://3gen.site.ined.fr/en/) team at [INED](https://www.ined.fr/en/), I examined the patterns and mechanisms of social mobility among migrant families in France.
 
-Methodologically, I use a combination of exploratory statistical tools (geometric data analysis), statistical modeling, and in-depth interviewing. In the case of quantitative data, I mainly use statistical surveys, including large harmonized data sets (IPUMS and DHS). I am also actively interested in the use of web harvested data for social sciences.
+In my current research, I study how caste and religion shape intergenerational class trajectories in a context of growing economic inequality, educational expansion and privatization, in India. 
+
+Methodologically, I use a combination of exploratory statistical tools (geometric data analysis), statistical modeling, and in-depth interviewing. In the case of quantitative data, I mainly use statistical surveys, including large harmonized data sets (IPUMS and DHS), and administrative sources. I am also actively interested in the use of web harvested data for social sciences.
 :::
 
 ::: {.content-visible when-profile="french"}
-Je suis Maître de conférences en sociologie à l'[Université Versailles Saint-Quentin (UVSQ)](https://www.uvsq.fr/), et chercheur au [Printemps](https://www.printemps.uvsq.fr/).
+Je suis sociologue et chercheur à l'[Institut Français de Pondichéry](https://www.ifpindia.org/) (IFP). 
+
+Je suis actuellement en détachement de mon poste de Maître de conférences à l'[Université Versailles Saint-Quentin (UVSQ)](https://www.uvsq.fr/), et chercheur au [Printemps](https://www.printemps.uvsq.fr/).
 
 Je suis également chercheur associé à l'[Institut national d'études démographiques (Ined)](https://www.ined.fr/), au sein de l'Unité de recherche ["Migrations internationales et minorités"](https://www.ined.fr/fr/recherche/equipes-recherche/UR08), ainsi qu'au [CESAH (Centre d’Études Sud-Asiatiques et Himalayennes)](https://cesah.ehess.fr/).
 
@@ -53,9 +57,9 @@ Mes recherches portent sur l'étude de la stratification et de la mobilité soci
 
 Dans ma [thèse de doctorat](https://hal-sciencespo.archives-ouvertes.fr/tel-03620008/document), j'ai étudié les dynamiques sociales de statut, d'intégration et de stigmatisation liées à l'alimentation, à la caste et à la religion dans l'Inde contemporaine.
 
-Dans mes recherches actuelles, j'étudie comment la caste et la religion façonnent les trajectoires de classe dans un contexte d'inégalités économiques croissantes et d'expansion de l'éducation en Inde.
+Au cours de ma recherche postdoctorale au sein de l'équipe [3GEN](https://3gen.site.ined.fr/) à l'[Ined](https://www.ined.fr/fr/), j'ai étudié les mécanismes de la mobilité sociale parmi les familles immigrées en France.
 
-Avec l'équipe [3GEN](https://3gen.site.ined.fr/), j'étudie également les mécanismes de la mobilité sociale parmi les familles immigrées en France.
+Dans mes recherches actuelles, j'étudie comment la caste et la religion façonnent les trajectoires de classe dans un contexte d'inégalités économiques croissantes, d'expansion et de privatisation de l'éducation en Inde.
 
-Sur le plan méthodologique, j'utilise une combinaison d'outils statistiques exploratoires (analyse géométrique des données), de modélisation statistique et d'entretiens. En ce qui concerne les données quantitatives, j'utilise principalement des enquêtes statistiques, y compris de grands ensembles de données harmonisées (IPUMS et DHS). Je m'intéresse également à l'utilisation des données récoltées sur le web pour les sciences sociales.
+Sur le plan méthodologique, j'utilise une combinaison d'outils statistiques exploratoires (analyse géométrique des données), de modélisation statistique et d'entretiens. En ce qui concerne les données quantitatives, j'utilise principalement des enquêtes statistiques, y compris de grands ensembles de données harmonisées (IPUMS et DHS), et des données administratives. Je m'intéresse également à l'utilisation des données récoltées sur le web pour les sciences sociales.
 :::
