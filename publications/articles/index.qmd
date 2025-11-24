@@ -4,6 +4,21 @@ page-layout: full
 ---
 
 ::: {.content-visible when-profile="french"}
+**Ferry M.**, Bouchet-Valat M., Drouhot L. G., Ichou M., Obućina O. (2025). Shades of *Égalité*: Educational Mobility and Ethnoracial Hierarchy Over Three Generations in France, *American Sociological Review*, *First published online 2025-11-22*.
+
+[{{< iconify icons8 pdf >}} PDF](https://journals-sagepub-com.scpo.idm.oclc.org/doi/epub/10.1177/00031224251391760) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1177/00031224251391760)
+:::
+
+::: {.content-visible when-profile="english"}
+Lavest C., **Ferry M.**, Ichou M., Präg P. (2025). Who do they think you are? Inconsistencies in self- and proxy-reports of education within families, *Social Science Research*, *First published online 2025-11-22*.
+
+[{{< iconify icons8 pdf >}} PDF](https://journals-sagepub-com.scpo.idm.oclc.org/doi/epub/10.1177/00031224251391760) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1177/00031224251391760)
+:::
+
+------------------------------------------------------------------------
+
+
+::: {.content-visible when-profile="french"}
 Lavest C., **Ferry M.**, Ichou M., Präg P. (2025). Who do they think you are? Inconsistencies in self- and proxy-reports of education within families, *Social Science Research*, *132*.
 
 [{{< iconify icons8 pdf >}} PDF](https://osf.io/b2qsu_v2) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1016/j.ssresearch.2025.103225)

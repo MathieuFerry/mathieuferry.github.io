@@ -30,13 +30,7 @@ git push -u origin main
 quarto render --profile english
 quarto render --profile french
 git add .
-git commit -m "new publis corr 2"
+git commit -m "new publi asr"
 git branch -M main
 git push -u origin main
 
-quarto render --profile english
-quarto render --profile french
-git add .
-git commit -m "maj titre"
-git branch -M main
-git push -u origin main
