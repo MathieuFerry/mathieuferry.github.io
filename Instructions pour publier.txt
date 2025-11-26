@@ -30,7 +30,7 @@ git push -u origin main
 quarto render --profile english
 quarto render --profile french
 git add .
-git commit -m "new publi asr"
+git commit -m "new publi asr corr depot"
 git branch -M main
 git push -u origin main
 
