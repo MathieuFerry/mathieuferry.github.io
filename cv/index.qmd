@@ -21,7 +21,7 @@ Since September 2023 - Assistant Professor (Maître de conférences) at [Univers
 2015-2017 - Master's Degree from Université Paris-Saclay "Quantitative Sociology & Demography".
 :::
 
-::: {.content-visible when-profile="french"}
+:::: {.content-visible when-profile="french"}
 ## Parcours professionnel
 
 Depuis septembre 2023 - Maître de conférences à l'[Université Versailles Saint-Quentin](https://www.uvsq.fr) (UVSQ) et chercheur au [Printemps](https://www.printemps.uvsq.fr/).
@@ -36,12 +36,13 @@ Depuis septembre 2023 - Maître de conférences à l'[Université Versailles Sai
 
 2015-2017 - Master de "Sociologie Quantitative et Démographie", Université Paris-Saclay.
 
-Pour en savoir plus : 
+Pour en savoir plus :
 
-::: {}
+<div>
 
-<iframe width="100%" height="700" src="CV_Fr.pdf" ></iframe>
+<iframe width="100%" height="700" src="CV_Fr.pdf">
 
-:::
+</iframe>
 
-:::
+</div>
+::::
