@@ -37,7 +37,7 @@ I am on leave from my Associate Professorship (Maître de conférences) at [Univ
 
 My research interests are in the study of social stratification, class and educational mobility, and lifestyle segmentation.
 
-In my [PhD dissertation](~/Documents/Pages web/mathieuferry.github.io/publications/PhD dissertation/Manuscript_2021_7_20s.pdf), I investigated food-related caste and religious social dynamics of status, integration and stigmatization in contemporary India.
+In my [PhD dissertation](publications/PhDdissertation/Manuscript_2021_7_20s.pdf), I investigated food-related caste and religious social dynamics of status, integration and stigmatization in contemporary India.
 
 During my postdoctoral research, along with the [3GEN](https://3gen.site.ined.fr/en/) team at [INED](https://www.ined.fr/en/), I examined the patterns and mechanisms of social mobility among migrant families in France.
 
