@@ -4,15 +4,35 @@ page-layout: full
 ---
 
 ::: {.content-visible when-profile="french"}
+Drouhot L. G., **Ferry M.**, Ichou M., Caron C. (2026). Assimilation or third-generation disadvantage? Educational and occupational attainment among the grandchildren of immigrants in France, *European Sociological Review*, *First published online 2026-02-19*.
+
+[{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1093/esr/jcag004)
+[{{< iconify streamline-ultimate:programming-browser-1 >}} Code](https://osf.io/wge83)
+:::
+
+::: {.content-visible when-profile="english"}
+Drouhot L. G., **Ferry M.**, Ichou M., Caron C. (2026). Assimilation or third-generation disadvantage? Educational and occupational attainment among the grandchildren of immigrants in France, *European Sociological Review*, *First published online 2026-02-19*.
+
+[{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1093/esr/jcag004)
+[{{< iconify streamline-ultimate:programming-browser-1 >}} Replication code](https://osf.io/wge83)
+
+:::
+
+------------------------------------------------------------------------
+
+::: {.content-visible when-profile="french"}
 **Ferry M.**, Bouchet-Valat M., Drouhot L. G., Ichou M., Obućina O. (2025). Shades of *Égalité*: Educational Mobility and Ethnoracial Hierarchy Over Three Generations in France, *American Sociological Review*, *First published online 2025-11-22*.
 
 [{{< iconify icons8 pdf >}} PDF](https://archined.ined.fr/view/6exMv5oBJC0okJu_lbcb) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1177/00031224251391760)
+[{{< iconify streamline-ultimate:programming-browser-1 >}} Code](https://osf.io/nzavq)
 :::
 
 ::: {.content-visible when-profile="english"}
 **Ferry M.**, Bouchet-Valat M., Drouhot L. G., Ichou M., Obućina O. (2025). Shades of *Égalité*: Educational Mobility and Ethnoracial Hierarchy Over Three Generations in France, *American Sociological Review*, *First published online 2025-11-22*.
 
 [{{< iconify icons8 pdf >}} PDF](https://archined.ined.fr/view/6exMv5oBJC0okJu_lbcb) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1177/00031224251391760)
+[{{< iconify streamline-ultimate:programming-browser-1 >}} Replication code](https://osf.io/nzavq)
+
 :::
 
 ------------------------------------------------------------------------
@@ -22,12 +42,16 @@ page-layout: full
 Lavest C., **Ferry M.**, Ichou M., Präg P. (2025). Who do they think you are? Inconsistencies in self- and proxy-reports of education within families, *Social Science Research*, *132*.
 
 [{{< iconify icons8 pdf >}} PDF](https://osf.io/b2qsu_v2) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1016/j.ssresearch.2025.103225)
+[{{< iconify streamline-ultimate:programming-browser-1 >}} Code](https://osf.io/nvp96)
+
 :::
 
 ::: {.content-visible when-profile="english"}
 Lavest C., **Ferry M.**, Ichou M., Präg P. (2025). Who do they think you are? Inconsistencies in self- and proxy-reports of education within families, *Social Science Research*, *132*.
 
 [{{< iconify icons8 pdf >}} PDF](https://osf.io/b2qsu_v2) [{{< iconify ph newspaper-light >}} DOI](https://doi.org/10.1016/j.ssresearch.2025.103225)
+[{{< iconify streamline-ultimate:programming-browser-1 >}} Replication code](https://osf.io/nvp96)
+
 :::
 
 ------------------------------------------------------------------------
