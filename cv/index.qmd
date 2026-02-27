@@ -8,7 +8,7 @@ cv:
 ::: {.content-visible when-profile="english"}
 ## Academic positions
 
-Since September 2023 - Assistant Professor (Maître de conférences) at [Université Versailles Saint-Quentin](https://www.uvsq.fr/english) (UVSQ) and researcher at [Printemps](https://www.printemps.uvsq.fr/).
+Since September 2023 - Associate Professor (Maître de conférences) at [Université Versailles Saint-Quentin](https://www.uvsq.fr/english) (UVSQ) and researcher at [Printemps](https://www.printemps.uvsq.fr/).
 
 2021-2023 - Postdoctoral Researcher at [Ined](https://www.ined.fr/en/) (French Institute for Demographic Studies).
 
